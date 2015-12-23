@@ -12,8 +12,6 @@ url: "https://kevinwang.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
-
 # Google tracking id to track your visitors
 
 google-tracking-id: "UA-35880426-4"
