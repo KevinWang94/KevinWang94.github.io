@@ -1,4 +1,3 @@
-
 # Site settings
 
 # NB! Set your site's url, otherwise stuff will break :)
@@ -14,7 +13,7 @@ url: "https://kevinwang.io"
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: "UA-71683578-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -29,7 +28,7 @@ force-https: True
 lang: "en"
 author: "Kevin Wang"
 title: "{ Kevin Wang }"
-description: "Personal website and blog of Kevin Wang, Opinions expressed are mine."
+description: "Personal website and blog of Kevin Wang."
 keywords: "kevin, wang, personal"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
@@ -117,7 +116,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "kwang01@college.harvard.edu"
 
 ##################
 # Social Buttons #
@@ -125,15 +124,9 @@ email: "your@email.here"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/KevinWang94"
   - title: "twitter"
-    url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://twitter.com/KevinWang94"
 
 ############
 # 404 page #
