@@ -143,8 +143,10 @@ social:
 pages_list:
   About: 'about'
   Blog: 'latest-post'
-  Timeline: 'timeline'
+  # Timeline: 'timeline'
+  Travel: 'travel'
   Contact: 'contact'
+  
 
 # Exclusion list from the generated _site
 
