@@ -101,12 +101,15 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/harvard.png"
+    date: "September 2012 - Today"
+    description: "A.B./S.M. candidate in Computer Science at Harvard"
+  - image: "/img/timeline/janestreet.jpg"
+    date: "Winter 2014, Summer 2015"
+    description: "Software development intern"
+  - image: "/img/timeline/google.png"
+    date: "Summer 2014"
+    description: "Software development intern"
 
 # First image of the Timeline
 
@@ -142,9 +145,9 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
-  # Timeline: 'timeline'
+  Timeline: 'timeline'
   Travel: 'travel'
+  Blog: 'latest-post'
   Contact: 'contact'
   
 
