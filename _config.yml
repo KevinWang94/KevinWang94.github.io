@@ -103,13 +103,13 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/harvard.png"
     date: "September 2012 - Today"
-    description: "A.B./S.M. candidate in Computer Science at Harvard"
+    description: "Harvard University: A.B./S.M. candidate in computer science"
   - image: "/img/timeline/janestreet.jpg"
     date: "Winter 2014, Summer 2015"
-    description: "Software development intern"
+    description: "Jane Street Capital: software development intern"
   - image: "/img/timeline/google.png"
     date: "Summer 2014"
-    description: "Software development intern"
+    description: "Google: Software engineering intern"
 
 # First image of the Timeline
 
