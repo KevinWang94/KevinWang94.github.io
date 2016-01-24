@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/luge.jpg"
+background-img: "../img/iceland.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -103,13 +103,16 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/harvard.png"
     date: "September 2012 - Today"
-    description: "Harvard University: A.B./S.M. candidate in computer science"
+    description: "Harvard University: A.B./S.M. Candidate in CS"
   - image: "/img/timeline/janestreet.jpg"
     date: "Winter 2014, Summer 2015"
-    description: "Jane Street Capital: software development intern"
+    description: "Jane Street Capital: Software Development Intern"
+  - image: "/img/timeline/harvard.png"
+    date: "Spring 2014 & 2015"
+    description: "Harvard SEAS: Teaching Fellow"
   - image: "/img/timeline/google.png"
     date: "Summer 2014"
-    description: "Google Inc: Software engineering intern"
+    description: "Google Inc: Software Engineering Intern"
 
 # First image of the Timeline
 
@@ -130,6 +133,8 @@ social:
     url: "https://facebook.com/kevintriguing"
   - title: "twitter"
     url: "https://twitter.com/kevintriguing"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/kevin-wang-884b7142"
 
 ############
 # 404 page #
