@@ -49,7 +49,7 @@ life. Again, I try not to have illusions here - I know that just walking
 around a country and snapping pictures can't really give you a sense of the
 local culture and people. But, in places with a less developed tourist
 industry, it's much easier to at least get glimpses of local life
-when your experiences are so constructed. For example, it's much easier
+when your experiences are less constructed. For example, it's much easier
 in these places to share buses and restaurants with locals, as there
 just aren't enough tourists to sustain tourist trap-esque establishments.
 
