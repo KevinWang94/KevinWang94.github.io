@@ -10,7 +10,7 @@ I often get asked why I travel to the places I do: the Balkans, North Korea,
 the Stans, etc. I thought it would be fun to explain myself, so maybe I can
 convince others (and myself?) that I'm not crazy. 
 
-###Why these countries?
+### Why these countries?
 
 First, I think everyone has a different idea of what they want from vacations.
 Many want to escape it all while on a beach sipping cocktails, or think
@@ -53,7 +53,7 @@ when your experiences are so constructed. For example, it's much easier
 in these places to share buses and restaurants with locals, as there
 just aren't enough tourists to sustain tourist trap-esque establishments.
 
-###Is it worth the risk?
+### Is it worth the risk?
 
 Now the less fun part. I'm not in denial - these places are totally risky.
 I realize that I could be detained by the DPRK for any number of frivolous
