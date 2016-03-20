@@ -7,7 +7,7 @@ CATEGORIES_DIR = 'categories/'
 
 Dir.foreach(POSTS_DIR) do |post|
 
-  next if post == '.' or post == '..' or post == '.DS_Store'
+  next if post == '.' or post == '..' or post == '.DS_Store' or File.directory?(POSTS_DIR + post)
   postYaml = YAML.load_file(POSTS_DIR + post)
   unless (postYaml['category'] == nil)
     category = postYaml['category']
