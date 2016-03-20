@@ -31,7 +31,6 @@ title: "{ Kevin Wang }"
 description: "Personal website and blog of Kevin Wang."
 keywords: "kevin, wang, personal"
 favicon: "/img/favicon.ico"
-404-img: "/img/labtocat.png"
 
 ################
 # Header layout #
@@ -57,6 +56,12 @@ lines: # You can add HTML Tags in the Text
   - text: "Where’s your will to be weird?"
 
 me-img: "/img/jetpacktocat.png"
+
+##############################
+# Color the browser elements #
+##############################
+color-browser: "#000000"
+apple-status-bar-style: "black"
 
 ################
 # Web app mode #
