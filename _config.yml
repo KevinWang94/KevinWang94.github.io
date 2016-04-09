@@ -106,16 +106,16 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/harvard.png"
-    date: "September 2012 - Today"
+    date: "Sept '12 - Today"
     description: "Harvard University: A.B./S.M. Candidate in CS"
   - image: "/img/timeline/janestreet.jpg"
-    date: "Winter 2014, Summer 2015"
+    date: "Winter '14, Summer '15"
     description: "Jane Street Capital: Software Development Intern"
   - image: "/img/timeline/harvard.png"
-    date: "Spring 2014 & 2015"
+    date: "Spring '14, '15, & '16"
     description: "Harvard SEAS: Teaching Fellow"
   - image: "/img/timeline/google.png"
-    date: "Summer 2014"
+    date: "Summer '14"
     description: "Google Inc: Software Engineering Intern"
 
 # First image of the Timeline
