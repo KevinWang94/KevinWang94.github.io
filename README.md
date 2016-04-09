@@ -19,19 +19,22 @@ You can watch it in action [here](https://panossakkos.github.io/personal-jekyll-
   * White on black text, making the reading experience tireless
   * Google analytics  
 * Customization and full control of your website and blog through the site config
+* Customization of the website's coloring
 * Blogging functionality
   * Preview of the latest post in the home page
   * Archive page
   * Syntax highlighting
   * Emojis
   * Gesture navigation in archive and post pages by swiping
-  * #tags
+  * Hashtags
+  * Categories
   * Disqus comments
   * Bootstrap share buttons
   * RSS feed
-* Anti-procrastinating 404 page
+* Author blurb under the posts
+* 404 page
 * iOS and Android Web App mode
-* Forcing of https protocol
+* Enforcing of https protocol
 * Protection from email harvesting
 * Sitemap
 * Travis CI integration with [html-proofer](https://github.com/gjtorikian/html-proofer)
@@ -64,8 +67,12 @@ The theme contains documentation in the form of [blog posts](https://panossakkos
 ![Instructions](https://dl.dropboxusercontent.com/u/8522559/personal-jekyll-theme/swipe.jpg)
 ### Post page
 ![Post](https://dl.dropboxusercontent.com/u/8522559/personal-jekyll-theme/post.jpg)
-### \#Tags
+### Author blurb
+![Blurb](https://dl.dropboxusercontent.com/u/8522559/personal-jekyll-theme/blurb.jpg)
+### Hashtags
 ![Tags](https://dl.dropboxusercontent.com/u/8522559/personal-jekyll-theme/tags.jpg)
+### Categories
+![Categories](https://dl.dropboxusercontent.com/u/8522559/personal-jekyll-theme/categories.jpg)
 ### 404
 ![404](https://dl.dropboxusercontent.com/u/8522559/personal-jekyll-theme/404.jpg)
 ### Mobile rendering
