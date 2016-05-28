@@ -10,6 +10,12 @@ Now that Commencement is over, time to look forward to summer travel!
 A couple of people have asked me about exactly where and when I'll be,
 so here's my summer schedule
 
+| Dates    | Place   |
+|----------|---------|
+| Juen 1-4 | Place 1 |
+| June 3   | Place 9 |
+| Blargh   | Place 9 |
+
 + 6/3-6/5: Kiev, Ukraine (this includes Chernobyl Tour!)
 + 6/6-6/10: Kazakhstan + Kyrgyzstan
 + 6/10-6/12: Tajikistan
