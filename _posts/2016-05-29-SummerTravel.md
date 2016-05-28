@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Summer 2016 Travel
 category: Travel
-tags: []
+tags: [ 'dummy' ]
 ---
 
 Now that Commencement is over, time to look forward to summer travel!
