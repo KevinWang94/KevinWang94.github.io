@@ -106,8 +106,8 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/harvard.png"
-    date: "Sept '12 - Today"
-    description: "Harvard University: A.B./S.M. Candidate in CS"
+    date: "Sept '12 - May '16"
+    description: "Harvard University: A.B. and S.M. in CS"
   - image: "/img/timeline/janestreet.jpg"
     date: "Winter '14, Summer '15"
     description: "Jane Street Capital: Software Development Intern"
@@ -126,7 +126,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "kwang01@college.harvard.edu"
+email: "kevin@kevinwang.io"
 
 ################
 # Author Blurb #
