@@ -9,6 +9,7 @@ tags: [ 'dummy' ]
 Now that Commencement is over, time to look forward to summer travel!
 A couple of people have asked me about exactly where and when I'll be,
 so here's my summer schedule:
+
 + Jun 3 - 5: Kiev, Ukraine (this includes Chernobyl Tour!)
 + Jun 6 - 10: Kazakhstan + Kyrgyzstan
 + Jun 10 - 12: Tajikistan
