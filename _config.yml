@@ -54,7 +54,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Kevin Wang" 
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/homepage.jpg"
 
 ##############################
 # Color the browser elements #
@@ -120,7 +120,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/pokemon.gif"
 
 ###########
 # Contact #
@@ -136,8 +136,8 @@ email: "kevin@kevinwang.io"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+# author_blurb: 
+# author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #

@@ -30,5 +30,6 @@ so here's my summer schedule:
 + Jul 21 - 24: Zurich, Switzerland
 + Jul 24 - 26: Milan, Italy
 
-Please let me know if you happen to be in one of the European cities
-at the same point, would love to meet up.
+Please let me know if you happen to be in one of the European countries
+at the same time (or even better, the non-European ones),
+would love to meet up.
