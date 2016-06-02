@@ -27,7 +27,7 @@ so here's my summer schedule:
 + Jul 14 - 17: Amsterdam, The Netherlands
 + Jul 17 - 19: Ghent, Belgium
 + Jul 19 - 21: Lausanne, Switzerland
-+ Jul 21 - 24: Zurich, Switzerland
++ Jul 21 - 24: Zurich, Switzerland (this includes detour to Liechtenstein)
 + Jul 24 - 26: Milan, Italy
 
 Please let me know if you happen to be in one of the European countries
