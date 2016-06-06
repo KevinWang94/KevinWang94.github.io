@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Soviet Satellites: Intro
+title: Soviet Satellites - Intro
 category: Travel
 tags: [ 'Soviet' ]
 ---
