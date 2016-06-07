@@ -8,11 +8,12 @@ tags: [ 'Soviet' ]
 
 ### Intro
 
-Our first country was Ukraine, recently of interest because of its war
-with Russia in the Crimea. Thankfully, the capital ciy of Kiev is completely
+Our first country was Ukraine, recently of interest because of its
+[conflict](https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Federation)
+with Russia in the Crimea, as well as the
+[2014 Revolution](https://en.wikipedia.org/wiki/2014_Ukrainian_revolution)
+which toppled its president. Thankfully, the capital ciy of Kiev is now completely
 safe, and where we visited.
-
-XXXLINKS ABOUT COUNTRY HEREXXX
 
 ### First Night in Kiev
 
@@ -23,25 +24,28 @@ now seems largely a commercial shopping center, complete with a McDonald's
 at which I ate a "Seasoned American Burger." It was actually quite good,
 crunchy tomato & lettuce, BBQ sauce, and higher quality beef than in the US!
 
-![](PHOTO HERE)
+![](PHOTO FROM AARON HERE)
 
 While we were at the square, there was also a funeral procession of some
-kind by the nationalist group (XXX). We weren't quite able to figure
+kind by the nationalist [Right Sector](https://en.wikipedia.org/wiki/Right_Sector).
+We weren't quite able to figure
 out what was going on, but evidently the deceased was important given the
 reverence displayed by the attendees:
 
-![]()
+![](https://www.dropbox.com/s/wshdwfppswpp4ep/P6030362.JPG?dl=0)
 
 Those attendees included this wonderful young gentleman with a fabulous
 shirt, "No Knife, No Life!" During the thirty minutes that we observed
 the events, he seemed to just mill around the crowd, but never lost
 his blank facial expression:
 
-
+![](https://www.dropbox.com/s/zrvsmkicktkrern/P6030354.JPG?dl=0)
 
 ### Chernobyl Day!
 
 This was the exciting day, a day trip to see the Chernobyl area!
+It is of course famous for the 1986 nuclear disaster, the worst in human
+history.
 We went with [](), the most established company running these tours, and
 had a wonderful time overall. We got off to an aun auspicious start,
 realizing that our tour group consisted of exactly 13 people. 
@@ -67,5 +71,5 @@ there are almost no permanent residents save a few stubborn grandpas
 and grandmas. There are a sizable number of workers within the zone though,
 XXX who apparently make around 1000 Euros per day spent working there.
 
-Highlights 
+Highlights dd
 ### Third Day
