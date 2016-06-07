@@ -32,14 +32,14 @@ We weren't quite able to figure
 out what was going on, but evidently the deceased was important given the
 reverence displayed by the attendees:
 
-![](https://www.dropbox.com/s/wshdwfppswpp4ep/P6030362.JPG?dl=0)
+![](https://dl.dropboxusercontent.com/s/wshdwfppswpp4ep/P6030362.JPG?dl=0)
 
 Those attendees included this wonderful young gentleman with a fabulous
 shirt, "No Knife, No Life!" During the thirty minutes that we observed
 the events, he seemed to just mill around the crowd, but never lost
 his blank facial expression:
 
-![](https://www.dropbox.com/s/zrvsmkicktkrern/P6030354.JPG?dl=0)
+![](https://dl.dropboxusercontent.com/s/zrvsmkicktkrern/P6030354.JPG?dl=0)
 
 ### Chernobyl Day!
 
