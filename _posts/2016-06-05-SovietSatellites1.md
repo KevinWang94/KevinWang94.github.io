@@ -13,9 +13,9 @@ Moldova. I'm actually trying to write these posts while on the road...we'll
 see how this goes.
 
 As with the last several trips chronicled here, I'm traveling with Aaron
-Roper for this part of my summer. This part of my summer was originally conceived
+through these countries.. This part of my summer was originally conceived
 as a journey across the Silk Road, as I wanted to make some sort of larger
-journey with vacation-starved full-time life looming. I actually seriously
+journey given that vacation-starved full-time life is looming. I actually seriously
 considered the overland experiences offered by companies such as
 [Oasis Overland](http://www.oasisoverland.co.uk/)
 and [Dragoman](https://www.dragoman.com/),
@@ -30,10 +30,10 @@ We instead lined up a local tour operator,
 for a three week, East to West tour through the five formerly Soviet
 Stans (all of them except Pakistan and Afghanistan).
 
-Of course, we couldn't just stop there. We realized that the cheapest
+Of course, we couldn't just stop there! We realized that the cheapest
 flight to Almaty, Kazakhstan actually stopped in Kiev, and it was no
-cost to add a couple of extra days there, in which we could do a Chernobyl
-day tour. Then, we found out that Turkmenistan had unfortunately
+cost to add a couple of extra days there. This gave us time to  do a Chernobyl
+day tour. Then, we unfortunately found out that Turkmenistan had
 denied our visa applications, for unknown reasons. Perhaps they thought
 that I was a hacker, or Aaron some regime-changing revolutionary. Or maybe
 it was just the caprice of one of the world's most authoritarian states.
@@ -42,7 +42,9 @@ We were only given a wondefully official document, which stated in Turkmen:
 So, we decided to use the extra couple of days to visit Moldova, and
 in particular the breakaway state of Transnistria. It's a small
 strip of land between Ukraine and Moldova, which apparently still wants
-to be part of the Soviet Union. More information to come in the post
-detailing our visit.
+to be part of the Soviet Union. It's often described in Western media as a
+dangerous hotbed of corruption and criminal activity, an opinion echoed
+by a Romanian friend of ours. But, some poking around on the internet seemed
+to indicate that visiting is quite safe. We shall see in two weeks.
 
 And so the journey begins, first up is Kiev and Chernobyl!

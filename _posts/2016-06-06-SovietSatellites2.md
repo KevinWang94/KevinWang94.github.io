@@ -51,11 +51,21 @@ background radiation that is around us. Along the way, we were shown
 various documentaries regarding the events from 1986 and after. In
 particular, the botched response by the Soviet authorities to the disaster
 which resulted in unnecessary deaths. Unfortunately, I was asleep for most of
-the ride.
+the ride. There was even one video demonstrating that a flight from
+Toronto to Kiev resulted in more absorbed radiation than our trip to
+Chernobyl. I'm no radiation expert, but it appears that radiation increases
+significantly at high altitudes. [Here](XX) is a link to some figures
+from the tour company highlighting various radiation amounts and rates.
+Given that we were going with a government-approved tour group to
+sanctioned areas, Aaron and I were not concerned.
+Though we had taken the precautions requested by the tour company, wearing
+close-toed shoes and long pants and sleeves for the few areas with
+elevated radiation. 
 
-We then arrived at the Exclusion Zone, an XX sized area in which
+After our drive, we arrived at the Exclusion Zone, an XX sized area in which
 there are almost no permanent residents save a few stubborn grandpas
 and grandmas. There are a sizable number of workers within the zone though,
-XXX who apparently make around 1000 Euros per day spent working there. 
+XXX who apparently make around 1000 Euros per day spent working there.
 
+Highlights 
 ### Third Day
