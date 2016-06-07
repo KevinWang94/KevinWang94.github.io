@@ -46,30 +46,61 @@ his blank facial expression:
 This was the exciting day, a day trip to see the Chernobyl area!
 It is of course famous for the 1986 nuclear disaster, the worst in human
 history.
-We went with [](), the most established company running these tours, and
-had a wonderful time overall. We got off to an aun auspicious start,
+We went with [Solo East Travel](http://www.tourkiev.com/),
+the originator of these tours, and had a wonderful time overall.
+Their van proudly advertises trips that "all your friends will be jealous of,"
+and trumpets tanks and missiles in addition to Chernobyl:
+
+![](https://www.dropbox.com/s/gw5r4tyeu94ejt8/P6040420.JPG?dl=0)
+
+We got off to an auspicious start,
 realizing that our tour group consisted of exactly 13 people. 
-We set off from Kiev early in the morning, with the ocassional beep
-of Geiger counters in the car reminding us of the constant
+Our van set off from Kiev early in the morning, with the ocassional beep
+of Geiger counters reminding us of the constant
 background radiation that is around us. Along the way, we were shown
-various documentaries regarding the events from 1986 and after. In
-particular, the botched response by the Soviet authorities to the disaster
-which resulted in unnecessary deaths. Unfortunately, I was asleep for most of
-the ride. There was even one video demonstrating that a flight from
+various documentaries regarding the events from 1986 and after that were quite interesting.
+In particular, I learned first that the botched response by the Soviet authorities to the disaster
+resulted in the many unnecessary deaths of nearby residents as well as emergency
+personnel. Also, the initial efforts to contain the radiation were made
+at great personal risk, with soldiers dropping sandbags by hand from flying
+helicopters. There was even one video demonstrating that a flight from
 Toronto to Kiev resulted in more absorbed radiation than our trip to
 Chernobyl. I'm no radiation expert, but it appears that radiation increases
-significantly at high altitudes. [Here](XX) is a link to some figures
-from the tour company highlighting various radiation amounts and rates.
+significantly at high altitudes.
 Given that we were going with a government-approved tour group to
-sanctioned areas, Aaron and I were not concerned.
-Though we had taken the precautions requested by the tour company, wearing
+sanctioned areas, Aaron and I were generally not concerned about radiation.
+Though we had taken the precautions requested by the tour company: wearing
 close-toed shoes and long pants and sleeves for the few areas with
 elevated radiation. 
 
-After our drive, we arrived at the Exclusion Zone, an XX sized area in which
+After a drive, we arrived at the
+[Exclusion Zone](https://en.wikipedia.org/wiki/Chernobyl_Exclusion_Zone),
+an approximately 1000 square mile area in which
 there are almost no permanent residents save a few stubborn grandpas
 and grandmas. There are a sizable number of workers within the zone though,
-XXX who apparently make around 1000 Euros per day spent working there.
+working on various maintenance tasks including the decomissioning of the
+reactors as well as the building of a new shield over Reactor Four.
+Our guide told us that they make around 1000 Euros per day spent working there.
+They had evidently made peace with the radiation exposure, as there were several
+employees just chilling right outside of Reactor Four.
 
-Highlights dd
+Highlights of the day included stops at city signs for Chernobyl and
+[Pripyat](https://en.wikipedia.org/wiki/Pripyat)
+as well as visits to several abandoned structures including a school, amusement
+park, and garage. They were on the eery side, though honestly no more
+than other similarly-abandoned structures.
+
+Here is Aaron and I on the abandoned Ferris Wheel. There was also a neglected
+set of bumper cars, an indoor swimming pool with diving platforms, an outdoor
+track, etc.
+
+![](https://www.dropbox.com/s/645m8hnvq7p4cyq/P6040442.JPG?dl=0)
+
+The kindergarten and school were definitely the creepiest. Something about
+these dolls just gets me:
+
+![](https://www.dropbox.com/s/su0r5wtpsr6etlo/P6040394.JPG?dl=0)
+
 ### Third Day
+
+Kiev is really a beautiful city, with lots of greenery and a
