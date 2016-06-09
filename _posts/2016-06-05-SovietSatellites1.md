@@ -37,9 +37,12 @@ day tour. Then, we unfortunately found out that Turkmenistan had
 denied our visa applications, for unknown reasons. Perhaps they thought
 that I was a hacker, or Aaron some regime-changing revolutionary. Or maybe
 it was just the caprice of one of the world's most authoritarian states.
-We were only given a wondefully official document, which stated in Turkmen:
+We were only given a wonderfully official document, which stated in Turkmen:
 "These are the names of the people whose visa applications have been denied."
-So, we decided to use the extra couple of days to visit Moldova, and
+I am still quite sad about this, as I was incredibly excited to visit
+the [Darvaza Gas Crater](), often referred to as the "Gates to Hell."
+Hopefully I'll be able to do a combined Iran/Turkmenistan trip in the near future.
+Instead, we decided to use the extra couple of days to visit Moldova, and
 in particular the breakaway state of Transnistria. It's a small
 strip of land between Ukraine and Moldova, which apparently still wants
 to be part of the Soviet Union. It's often described in Western media as a
