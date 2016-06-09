@@ -41,6 +41,14 @@ his blank facial expression:
 
 ![](https://dl.dropboxusercontent.com/s/zrvsmkicktkrern/P6030354.JPG?dl=0)
 
+The event was a reminder that Ukraine is a country embroiled in an active
+war, a fact that cannot be missed while walking around Kiev. We passed
+several displays regarding the war, mostly walls of young men's photos
+commemorating those who had died. Even at Kiev Airport by the gates, there
+were these huge photos of soldiers:
+
+![](CELLPHONEXX)
+
 ### Chernobyl Day!
 
 This was the exciting day, a day trip to see the Chernobyl area!
