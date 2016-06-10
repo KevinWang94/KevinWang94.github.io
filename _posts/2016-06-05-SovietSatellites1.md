@@ -40,7 +40,8 @@ it was just the caprice of one of the world's most authoritarian states.
 We were only given a wonderfully official document, which stated in Turkmen:
 "These are the names of the people whose visa applications have been denied."
 I am still quite sad about this, as I was incredibly excited to visit
-the [Darvaza Gas Crater](), often referred to as the "Gates to Hell."
+the [Darvaza Gas Crater](https://en.wikipedia.org/wiki/Door_to_Hell),
+often referred to as the "Door to Hell."
 Hopefully I'll be able to do a combined Iran/Turkmenistan trip in the near future.
 Instead, we decided to use the extra couple of days to visit Moldova, and
 in particular the breakaway state of Transnistria. It's a small
