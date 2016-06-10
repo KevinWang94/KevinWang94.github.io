@@ -149,6 +149,8 @@ on the menu. My white wine tasted like watered down wine mixed with vinegar, a r
 treat! On the bright side, the dumplings were good, and we also tried these bizarre
 berry dumpling shooters:
 
+![](https://dl.dropboxusercontent.com/s/xvjpste700i2aac/IMG_20160605_130009.jpg?dl=0)
+
 I really did not care for the mix of warm dumpling and alcohol though.
 
 In closing, Kiev is really a beautiful city, with lots of greenery and beautiful
