@@ -47,7 +47,7 @@ several displays regarding the war, mostly walls of young men's photos
 commemorating those who had died. Even at Kiev Airport by the gates, there
 were these huge photos of soldiers:
 
-![](CELLPHONEXX)
+![](https://dl.dropboxusercontent.com/s/jy07k95fo3j8a1f/IMG_20160605_160247.jpg?dl=0)
 
 ### Chernobyl Day!
 
@@ -59,7 +59,7 @@ the originator of these tours, and had a wonderful time overall.
 Their van proudly advertises trips that "all your friends will be jealous of,"
 and trumpets tanks and missiles in addition to Chernobyl:
 
-![](https://www.dropbox.com/s/gw5r4tyeu94ejt8/P6040420.JPG?dl=0)
+![](https://dl.dropboxusercontent.com/s/gw5r4tyeu94ejt8/P6040420.JPG?dl=0)
 
 We got off to an auspicious start that morning,
 realizing that our tour group consisted of exactly 13 people. 
@@ -89,7 +89,7 @@ there are almost no permanent residents save a few stubborn grandpas
 and grandmas who have moved back after the disaster.
 There are however a sizable number of workers within the zone,
 working on various maintenance tasks including the decomissioning of the
-site's other three reactors (which continued to operate until XX!)
+site's other three reactors (one of which continued to operate until 2000!)
 as well as the building of a new shield over the damaged Reactor 4.
 They had evidently made peace with the radiation exposure, as there were several
 employees just chilling right outside of the reactor which had some
@@ -108,28 +108,28 @@ There was also a neglected
 set of bumper cars, an indoor swimming pool with diving platforms, an outdoor
 track, etc.
 
-![](https://www.dropbox.com/s/645m8hnvq7p4cyq/P6040442.JPG?dl=0)
+![](https://dl.dropboxusercontent.com/s/645m8hnvq7p4cyq/P6040442.JPG?dl=0)
 
 The kindergarten and school were definitely the creepiest. Something about
 these dolls just gets me:
 
-![](https://www.dropbox.com/s/su0r5wtpsr6etlo/P6040394.JPG?dl=0)
+![](https://dl.dropboxusercontent.com/s/su0r5wtpsr6etlo/P6040394.JPG?dl=0)
 
 Though it was quite clear that many of the rooms we were talking though,
 while abandoned abruptly in 1986, had since been arranged, with books
 purposely opened and dolls stood up. This perfectly done view of a doll
 wearing a gas mask was the most egregious:
 
-![](XX).
+![](https://dl.dropboxusercontent.com/s/wytitp4cjjig1w5/P6040460.JPG?dl=0).
 
 Of course, we also paid a visit to the damaged Reactor Four. Here it is
 in the background, with a Geiger counter showing the radiation to be 3.15
-micro-Sieverts (XX), about 20x higher than normal according to our guide.
+microsieverts, about 20x higher than normal according to our guide.
 
-![](416XX)
+![](https://dl.dropboxusercontent.com/s/rwujtjim1cun671/P6040416.JPG?dl=0)
 
 On our way out of the area, we passed two radiation checkpoints, where we
-were asked to stand (XX) around these machines which supposedly checked
+were asked to stand on these machines which supposedly checked
 for contamination. To be honest, I'm not quite sure that they were doing anything,
 and everyone around us seemed remarkably casual about them. But, I suppose
 it was somewhat comforting?
@@ -137,7 +137,7 @@ it was somewhat comforting?
 ### Third Day
 
 On our last day in Kiev, we paid a visit to the
-[Caves Monastery](XX),
+[Caves Monastery](https://en.wikipedia.org/wiki/Kiev_Pechersk_Lavra),
 the city's most popular tourist attraction. We neglected to heed our guidebook's
 recommendation about purchasing candles, and ended up stumbling around the dark
 caves which are dotted with the glass coffins of various saints. We were also
