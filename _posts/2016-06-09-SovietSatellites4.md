@@ -8,6 +8,8 @@ tags: [ 'Soviet' ]
 
 ### Intro
 
+Kyrgyzstan is definitely the
+
 ### Drive to Bishkek
 
 We set off in the morning for Bishkek, getting a taste of the crazy roads that
@@ -28,7 +30,7 @@ conditions. Let's see if Tajikistan and Uzbekistan are any better.
 
 In Bishkek, we also wandered around the center city, seeing a similar variety
 of parks and statues. At one location, they had relocated a statue of Lenin,
-only to replace it with one of Karl Marx and Freidrich Engels"
+only to replace it with one of Karl Marx and Freidrich Engels!
 
 ![](XX)
 
@@ -45,5 +47,32 @@ peoples (XXXX).
 
 ![](XX)
 
+We also stopped by one of the city's bazaars, where it seems that anything
+can be purchased, from toilet paper to horse sausuges. Here are some colorful
+carpets:
 
+![](XX)
 
+And the old women manning various food stalls:
+
+![](XX)
+
+### Day 2: Leaving Bishkek
+
+On our second day in Kyrgyzstan, we left Bishkek on our way to Central Asia's
+largest lake Issyl Kol, ststopping at a couple of sights along the way. First up
+was Burana Tower, a 11th century brick minaret that was aggressively restored
+by the Soviets in the 1950s. Zakir even described it as Kyrgyzstan's Pisa, as
+the tower has a slight lean to it despite the restoration:
+
+![](XX)
+
+After Burana, we headed to Lake Issyl-Kol, which really is massive. It's the second largest
+alpine lake in tthe world after Lake Titicaca in South America,
+and the second deepest after Lake Baikal. It seems to be about the size of Lake Erie.
+
+From the lake, we went to the Grigorievka Gorge, north of the lake. In the gorge
+we passed many men on horseback herding livestock, as well as people erecting
+yurts. Not exactly how similar this was to ""traditional" Kyrgyz life, but this
+was probably the cloest we got to it. Unfortunately, the road to the three
+alpine lakes was probably the longest and bumpiest I've done in about 10 years.
