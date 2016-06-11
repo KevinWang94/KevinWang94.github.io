@@ -19,10 +19,6 @@ for a quick nap before sightseeing!
 
 First up was the
 
-I also discovered here that our driver had been given a Burton sticker by some
-traveler: yay Vermont!
-
-![](https://dl.dropboxusercontent.com/s/bhhu114ekrh6x7e/P6060007.JPG?dl=0)
 
 Central State Museum
 
@@ -30,18 +26,11 @@ Kok-Tobe
 
 Beatles statue
 
-![](https://dl.dropboxusercontent.com/s/a4tbmmoeeji4md4/P6060019.JPG?dl=0)
 
 
 Rich people, Bentleys
 
 Around town
-
-Highlights included the
-[Ascension Cathedral](https://en.wikipedia.org/wiki/Ascension_Cathedral,_Almaty)
-which was constructed entirely out of wood (even the nails):
-
-![](https://dl.dropboxusercontent.com/s/2tkvdtxnxd64jzc/P6060028.JPG?dl=0)
 
 
 Hightlight church
