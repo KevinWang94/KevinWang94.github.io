@@ -8,7 +8,10 @@ tags: [ 'Soviet' ]
 
 ### Intro
 
-Kazakhstan is
+First of the Stans we were visiting, Kazakhstan is Central Asia's largest
+country, and should be known for much more than just Borat. Unfortunately,
+[that hasn't always been the case](http://www.bbc.com/news/world-middle-east-17491344).
+This is also where our guided tour through Steppe Journeys began.
 
 We flew from Kiev to Almaty, Kazakhstan, arriving at 1AM Kiev time or 4AM
 Almaty time. Not sure why Ukraine Air has such weird flight schedules...
@@ -17,8 +20,12 @@ and went to our hotel for a quick nap before sightseeing!
 
 ### Sights
 
-First up was the Medeu Ice Rink, a huge rink that's part of a larger winter
-sports complex outside of Almaty. It was used in 2017 to host the XXX Games.
+First up was the
+[Medeu Ice Rink](https://en.wikipedia.org/wiki/Medeu),
+a huge rink that's part of a larger winter
+sports complex outside of Almaty. It was used in 2011 to host the Winter
+Asian Games, and also would have been used for the 2022 Winter Olympics had
+Almaty's bin won out over Beijing's.
 We also (somewhat foolishly) decided to hike up this steep structure behind
 the rink that was built to stop mudslides. The view from the top was beautiful
 though!
@@ -44,11 +51,12 @@ S-classes while in Almaty...
 It was at the Central State Museum that I began to grasp the incredibly
 complex history of this region. Due to its location on the Silk Road and general
 centrality in Eurasia, this region has been settled by a huge variety of peoples
-and religions, from Russians to Turkic peoples to Mongols. This history can still
+and religions, from Russians to Persians to Mongols. This history can still
 be seen while walking around today, with what I perceived to be a wide variety of
 appearances, from folks who I swore were Chinese to people with very European
 feeatures. The story of religion is similar. At various times,
-Paganism, Buddhism, Christianity, and Islam have all been practiced in the
+Paganism, Buddhism, Zoroastrianism, Christianity, and Islam
+have all been practiced in the
 region. The last is currently the most prevalent, though apparently the region is
 known for a more relaxed practice. We saw very few women with hijabs, and all
 the restaurants we frequented seemed quite popular despite it being Ramadan.
@@ -62,3 +70,6 @@ buildings. Highlights included the
 which was constructed entirely out of wood (even the nails):
 
 ![](https://dl.dropboxusercontent.com/s/2tkvdtxnxd64jzc/P6060028.JPG?dl=0)
+
+Though we would return to fly out of Almaty, this was our last day really
+doing anything in Kazakhstan. Up next: Kyrgyzstan!
