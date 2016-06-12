@@ -9,25 +9,27 @@ tags: [ 'Soviet' ]
 ### Intro
 
 Our first country was Ukraine, recently of interest because of its
-[conflict](https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Federation)
-with Russia in the Crimea, as well as the
+[conflict with Russia](https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Federation)
+in the Crimea, as well as the
 [2014 Revolution](https://en.wikipedia.org/wiki/2014_Ukrainian_revolution)
-which toppled its president. Thankfully, the capital ciy of Kiev is now completely
-safe, and where we visited.
+which toppled its president. Thankfully, the capital city of Kiev where we visited
+is now completely safe.
 
 ### First Night in Kiev
 
 We flew from JFK to Kiev on Ukraine Air, leaving at the bizarre time of 12:30AM EST and
 arriving in Kiev around dinner time. I somehow managed to break my glasses on the flight
-(yes, the same pair I broke in Iceland), but it was otherwise uneventful.
+(yes, the same pair I broke in Iceland), but the flight was otherwise uneventful.
 After checking in, we went first to
-Independence Square where the 2014 Revolution occurred. Of course, the area
+[Independence Square](https://en.wikipedia.org/wiki/Maidan_Nezalezhnosti)
+where the 2014 Revolution occurred. Of course, the area
 now seems largely a commercial shopping center, complete with a McDonald's
 at which I ate a "Seasoned American Burger." It was actually quite good,
 crunchy tomato & lettuce, BBQ sauce, and higher quality beef than in the US!
 
 While we were at the square, there was also a funeral procession of some
-kind by the nationalist [Right Sector](https://en.wikipedia.org/wiki/Right_Sector).
+kind by the nationalist [Right Sector](https://en.wikipedia.org/wiki/Right_Sector)
+party.
 We weren't quite able to figure
 out what was going on, but evidently the deceased was important given the
 reverence displayed by the attendees:
@@ -115,12 +117,13 @@ these dolls just gets me:
 
 ![](https://dl.dropboxusercontent.com/s/su0r5wtpsr6etlo/P6040394.JPG?dl=0)
 
-Though it was quite clear that many of the rooms we were talking though,
-while abandoned abruptly in 1986, had since been arranged, with books
+Walking through these buildings, it was quite clear that some of the rooms
+had been carefully arranged since their abrupt abandonment in 1986. 
+There were books
 purposely opened and dolls stood up. This perfectly done view of a doll
 wearing a gas mask was the most egregious:
 
-![](https://dl.dropboxusercontent.com/s/wytitp4cjjig1w5/P6040460.JPG?dl=0).
+![](https://dl.dropboxusercontent.com/s/wytitp4cjjig1w5/P6040460.JPG?dl=0)
 
 Of course, we also paid a visit to the damaged Reactor Four. Here it is
 in the background, with a Geiger counter showing the radiation to be 3.15
@@ -132,7 +135,8 @@ On our way out of the area, we passed two radiation checkpoints, where we
 were asked to stand on these machines which supposedly checked
 for contamination. To be honest, I'm not quite sure that they were doing anything,
 and everyone around us seemed remarkably casual about them. But, I suppose
-it was somewhat comforting?
+it was somewhat comforting? Overall, Chernobyl made for a very interesting
+visit and was definitely the highlight of our time in Ukraine.
 
 ### Third Day
 
@@ -141,18 +145,21 @@ On our last day in Kiev, we paid a visit to the
 the city's most popular tourist attraction. We neglected to heed our guidebook's
 recommendation about purchasing candles, and ended up stumbling around the dark
 caves which are dotted with the glass coffins of various saints. We were also
-able to stop by St. Sophia's Cathedral, which had been closed on the first day
-when we tried to visit. 
+able to stop by
+[St. Sophia's Cathedral](https://en.wikipedia.org/wiki/Saint_Sophia%27s_Cathedral,_Kiev),
+which had been closed on the first day when we tried to visit. 
 
 We stopped for lunch at Spotykach, where we mistakenly ordered the cheapest wine
 on the menu. My white wine tasted like watered down wine mixed with vinegar, a real
-treat! On the bright side, the dumplings were good, and we also tried these bizarre
+treat! Hands down the worst wine I've had, whether of the boxed or unboxed variety.
+On the bright side, the dumplings and Chicken Kiev were good, and we also tried these bizarre
 berry dumpling shooters:
 
 ![](https://dl.dropboxusercontent.com/s/xvjpste700i2aac/IMG_20160605_130009.jpg?dl=0)
 
-I really did not care for the mix of warm dumpling and alcohol though.
+I really did not care for the mix of warm dumpling and alcohol though...
 
 In closing, Kiev is really a beautiful city, with lots of greenery and beautiful
 churches. It was really a much nicer stopover than either Aaron or I had expected.
-Up next: Kazakhstan!
+It has a nice old-time European feel without much of a Soviet vibe, while still
+being quite affordable. Up next: Kazakhstan!
