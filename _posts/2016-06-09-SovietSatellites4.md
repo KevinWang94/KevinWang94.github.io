@@ -26,36 +26,38 @@ car. Thankfully, we survived the four days in Kazakhstan and Kyrgyzstan without
 incident. Slava was surprisingly nonchalant about the long days in these driving
 conditions. Let's see if Tajikistan and Uzbekistan are any better.
 
+We thankfully exited the country without incident, though the border crossing
+was a bit chaotic and confusing at times. No need to bribe my way
+out of the country as a friend of mine had done a couple years ago after
+misplacing some paperwork.
+
 ### Bishkek
 
 In Bishkek, we also wandered around the center city, seeing a similar variety
 of parks and statues. At one location, they had relocated a statue of Lenin,
-only to replace it with one of Karl Marx and Freidrich Engels!
-
-![](XX)
-
-And of course, across the street was a former Community Party building 
+only to replace it with one of Karl Marx and Friedrich Engels! 
+And of course, across the street was a former Communist Party building 
 since converted into the American University of Central Asia:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/6prsn468xdq5znd/P6070049.JPG?dl=0)
 
 Here's that statue of Lenin, still in a prominent location. Apparently, Lenin
-is still quite respected in the area, as he put a stop to many cruel policies 
-by the Czar in this area. On the other hand, Stalin is unsurprisingly less
+remains quite respected in the area, as he put a stop to many cruel policies 
+by the Czar. On the other hand, Stalin is unsurprisingly less
 revered, having enacted the forced settlement of many of the area's nomadic 
-peoples (XXXX).
+peoples amongst other misdeeds.
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/by1g4jxdl1445sj/P6070053.JPG?dl=0)
 
 We also stopped by one of the city's bazaars, where it seems that anything
 can be purchased, from toilet paper to horse sausuges. Here are some colorful
 carpets:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/sihqhoh30x4jrn1/P6070059.JPG?dl=0)
 
 And the old women manning various food stalls:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/qtss62lu21vuik8/P6070063.JPG?dl=0)
 
 ### Day 2: Leaving Bishkek
 
