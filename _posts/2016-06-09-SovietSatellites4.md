@@ -8,7 +8,7 @@ tags: [ 'Soviet' ]
 
 ### Intro
 
-Kyrgyzstan is definitely the
+In our largely East to West Kyrgyzstan is definitely the
 
 ### Drive to Bishkek
 
@@ -59,9 +59,14 @@ And the old women manning various food stalls:
 
 ![](https://dl.dropboxusercontent.com/s/qtss62lu21vuik8/P6070063.JPG?dl=0)
 
+Dinner that evening was a reminder of East Asian influence in the area, as
+I had these distinctly Chinese-looking noodles:
+
+![](https://www.dropbox.com/s/c1zr2xnghl1wv22/P6070066.JPG?dl=0)
+
 ### Day 2: Leaving Bishkek
 
-On our second day in Kyrgyzstan, we left Bishkek on our way to Central Asia's
+On our second day in Kyrgyzstan, we left Bishkek on the way to Central Asia's
 largest lake Issyl Kol, ststopping at a couple of sights along the way. First up
 was Burana Tower, a 11th century brick minaret that was aggressively restored
 by the Soviets in the 1950s. Zakir even described it as Kyrgyzstan's Pisa, as

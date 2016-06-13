@@ -127,7 +127,7 @@ wearing a gas mask was the most egregious:
 
 Of course, we also paid a visit to the damaged Reactor Four. Here it is
 in the background, with a Geiger counter showing the radiation to be 3.15
-microsieverts, about 20x higher than normal according to our guide.
+microsieverts per hour, about 20x higher than normal according to our guide.
 
 ![](https://dl.dropboxusercontent.com/s/rwujtjim1cun671/P6040416.JPG?dl=0)
 

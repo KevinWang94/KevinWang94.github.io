@@ -25,7 +25,7 @@ First up was the
 a huge rink that's part of a larger winter
 sports complex outside of Almaty. It was used in 2011 to host the Winter
 Asian Games, and also would have been used for the 2022 Winter Olympics had
-Almaty's bin won out over Beijing's.
+Almaty's bid won out over Beijing's.
 We also (somewhat foolishly) decided to hike up this steep structure behind
 the rink that was built to stop mudslides. The view from the top was beautiful
 though!
@@ -35,7 +35,8 @@ traveler: yay Vermont!
 
 ![](https://dl.dropboxusercontent.com/s/bhhu114ekrh6x7e/P6060007.JPG?dl=0)
 
-Next was Kok-tobe, a recreation area atop another hill close to the city,
+Next was [Kok-tobe](https://en.wikipedia.org/wiki/Kok_Tobe),
+a recreation area atop another hill close to the city,
 accessible by cable car. The top had everything: kids rides, petting zoo,
 climbing wall, etc. It apparently also has the only statue in the world of
 all four Beatles, built recently due to local fans:
@@ -50,11 +51,11 @@ S-classes while in Almaty...
 
 It was at the Central State Museum that I began to grasp the incredibly
 complex history of this region. Due to its location on the Silk Road and general
-centrality in Eurasia, this region has been settled by a huge variety of peoples
+centrality in Eurasia, it has been settled by a huge variety of peoples
 and religions, from Russians to Persians to Mongols. This history can still
 be seen while walking around today, with what I perceived to be a wide variety of
 appearances, from folks who I swore were Chinese to people with very European
-feeatures. The story of religion is similar. At various times,
+features. The story of religion is similar. At various times,
 Paganism, Buddhism, Zoroastrianism, Christianity, and Islam
 have all been practiced in the
 region. The last is currently the most prevalent, though apparently the region is
@@ -71,5 +72,5 @@ which was constructed entirely out of wood (even the nails):
 
 ![](https://dl.dropboxusercontent.com/s/2tkvdtxnxd64jzc/P6060028.JPG?dl=0)
 
-Though we would return to fly out of Almaty, this was our last day really
-doing anything in Kazakhstan. Up next: Kyrgyzstan!
+Though we would return to fly out of Almaty, this was our last and only day
+really doing anything in Kazakhstan. Up next: Kyrgyzstan!
