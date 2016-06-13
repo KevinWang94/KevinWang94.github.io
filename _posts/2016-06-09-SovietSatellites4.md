@@ -8,7 +8,9 @@ tags: [ 'Soviet' ]
 
 ### Intro
 
-In our largely East to West Kyrgyzstan is definitely the
+In our largely East to West itinerary, Kyrgyzstan was up next. It holds several
+distinctions amongst the Stans, being both the most difficult to spell
+as well as the most democratic.
 
 ### Drive to Bishkek
 
@@ -62,24 +64,62 @@ And the old women manning various food stalls:
 Dinner that evening was a reminder of East Asian influence in the area, as
 I had these distinctly Chinese-looking noodles:
 
-![](https://www.dropbox.com/s/c1zr2xnghl1wv22/P6070066.JPG?dl=0)
+![](https://dl.dropboxusercontent.com/s/c1zr2xnghl1wv22/P6070066.JPG?dl=0)
 
-### Day 2: Leaving Bishkek
+### Day 2: Bishkek to Issyk-Kul
 
 On our second day in Kyrgyzstan, we left Bishkek on the way to Central Asia's
-largest lake Issyl Kol, ststopping at a couple of sights along the way. First up
+largest lake [Issyk-Kul](https://en.wikipedia.org/wiki/Issyk-Kul),
+stopping at a couple of sights along the way. First up
 was Burana Tower, a 11th century brick minaret that was aggressively restored
 by the Soviets in the 1950s. Zakir even described it as Kyrgyzstan's Pisa, as
 the tower has a slight lean to it despite the restoration:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/9evi8bu8ei9kdap/P6080068.JPG?dl=0)
 
-After Burana, we headed to Lake Issyl-Kol, which really is massive. It's the second largest
-alpine lake in tthe world after Lake Titicaca in South America,
-and the second deepest after Lake Baikal. It seems to be about the size of Lake Erie.
+After Burana, we headed to the lake, which really is quite massive. There's
+also some thermal activity in the depths, meaning it was reasonably warm
+despite the altitude. We waded into the water a bit, and Aaron was able to
+get a swim in the following morning.
 
-From the lake, we went to the Grigorievka Gorge, north of the lake. In the gorge
+From the lake, we went North to the Grigorievka Gorge. While there,
 we passed many men on horseback herding livestock, as well as people erecting
-yurts. Not exactly how similar this was to ""traditional" Kyrgyz life, but this
-was probably the cloest we got to it. Unfortunately, the road to the three
-alpine lakes was probably the longest and bumpiest I've done in about 10 years.
+yurts. Not exactly sure how similar this was to "traditional" Kyrgyz life, but
+this was probably the cloest we got to it. Unfortunately, the road to the three
+alpine lakes was probably the longest and bumpiest I've done in a decade.
+Frankly while the lakes were beautiful, it was probably not worth the extra
+distance up the gorge. And of course, it began to rain right around when we
+reached the lakes. The made the couple tiny streams we had driven through
+a bit more harrowing on the way back. Again, Slava seemed unfazed and did an
+excellent job getting us back. I, on the other hand, was largely asleep. Here's
+a shot of our vehicle from this day:
+
+![](https://dl.dropboxusercontent.com/s/e6dq516gx400f2r/P6080084.JPG?dl=0)
+
+### Day 3: Back to Almaty
+
+Due to our late return the previous evening, we had pushed visiting the
+[Cholpan-Ata Petroglyphs](http://www.advantour.com/kyrgyzstan/cholpon-ata-petroglyphs.htm)
+to this last day. They were quite interesting, though we were a bit surprised
+to see them just out in the open air and able to be touched by anyone.
+Our guide traced out several of the glyphs with his hands...
+
+We then just spent the rest of the day driving all the way back to
+Almaty. As the crow flies, it's not terribly long, but there are these
+damn mountains in the way. This meant that we had to drive basically
+back to Bishkek and then from there to Almaty, again making the chaotic
+border crossing.
+
+Our adventures in Kazakhstan weren't quite done though. We went to this somewhat
+swanky place for dinner, and managed to run out of local currency, which
+was quite embarassing. The meal was even quite affordable by American standards:
+around $10 each. But given that all our other meals had been less than half that,
+it somehow seemed crazy expensive. After a brief panic, Zakir found some extra
+Kazakh money, and we were able to pay him back by going to exchange our
+extra Kyrgyz currency. 
+
+The next morning, we said goodbye to Zakir and Slava, and left Almaty
+airport toward Dushanbe, Tajikistan! Here's a picture of the four of us
+together, many thanks to the both of them:
+
+![](https://dl.dropboxusercontent.com/s/l80id8tt0uke53h/P6090002.JPG?dl=0)
