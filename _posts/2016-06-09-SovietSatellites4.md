@@ -51,6 +51,15 @@ peoples amongst other misdeeds.
 
 ![](https://dl.dropboxusercontent.com/s/by1g4jxdl1445sj/P6070053.JPG?dl=0)
 
+It was while in Bishkek that we heard a bit about the country's two recent
+revolutions, from [2005](https://en.wikipedia.org/wiki/Tulip_Revolution)
+and [2010](https://en.wikipedia.org/wiki/Kyrgyz_Revolution_of_2010)
+both of which deposed national leaders. This makes Kyrgyzstan unique amongst
+the Stans, as Kazakhstan, Tajikistan, and Uzbekistan are all still led by the
+originaly post-Soviet leader, and Turkmenistan was as well until
+[Niyazov](https://en.wikipedia.org/wiki/Saparmurat_Niyazov)
+passed away in 2006.
+
 We also stopped by one of the city's bazaars, where it seems that anything
 can be purchased, from toilet paper to horse sausuges. Here are some colorful
 carpets:
