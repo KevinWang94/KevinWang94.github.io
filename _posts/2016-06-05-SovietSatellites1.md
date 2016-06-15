@@ -33,7 +33,7 @@ Stans (all of them except Pakistan and Afghanistan).
 Of course, we couldn't just stop there! We realized that the cheapest
 flight to Almaty, Kazakhstan actually stopped in Kiev, and it was no
 cost to add a couple of extra days there. This gave us time to  do a Chernobyl
-day tour. We then found out that our Turkmenistan had unfortunately
+day tour. We then found out that Turkmenistan had unfortunately
 denied our visa applications, for unknown reasons. Perhaps they thought
 that I was a hacker, or Aaron some regime-changing revolutionary. Or maybe
 it was just the caprice of one of the world's most authoritarian states.
