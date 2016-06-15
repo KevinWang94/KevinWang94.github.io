@@ -52,7 +52,8 @@ S-classes while in Almaty...
 It was at the Central State Museum that I began to grasp the incredibly
 complex history of this region. Due to its location on the Silk Road and general
 centrality in Eurasia, it has been settled by a huge variety of peoples
-and religions, from Russians to Persians to Mongols. This history can still
+and religions, including Russians, Persians, Mongols, and Macedonians.
+This history can still
 be seen while walking around today, with what I perceived to be a wide variety of
 appearances, from folks who I swore were Chinese to people with very European
 features. The story of religion is similar. At various times,
