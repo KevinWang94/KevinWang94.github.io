@@ -39,8 +39,8 @@ a flag that weights *1540 pounds*.
 Up next were the National Museum of Antiquities, where we were given a tour
 by a local guide about the various relics left behind by the waves of
 peoples and religions that had inhabited this region. The highlight was
-the "Nirvana Buddha," an XX meter long Buddha lying on its side found recently
-in Tajikistan. After came the National Museum XX, an airy new building that
+the "Nirvana Buddha," an 45 foot Buddha lying on its side found recently
+in Tajikistan. After came the National Museum, an airy new building that
 contained exhibits regarding history, art, geology, and nature. 
 
 This museum reminded me in many ways of North Korea. First, it seemed
@@ -50,15 +50,15 @@ regarding their (at this point basically Eternal) President
 [Emomali Rahmon](https://en.wikipedia.org/wiki/Emomali_Rahmon). Here's
 a map of all his trips around the world:
 
-![](XX)
+![](https://www.dropbox.com/s/p7i3acv4ymsp6o3/P6100010.JPG?dl=0)
 
-And a room dedicated to gifts given to him by world leaders:
-
-![](XX)
-
+There was also a luxuriously decorated room dedicated to gifts given to
+him by world leaders.
 We had seen identical (albeit flashier) displays in the DPRK. There was even
 a display of his various works, all of which were read by our museum guide
-while in university.
+while in university:
+
+![](https://www.dropbox.com/s/3lsnfyode7613mv/P6100011.JPG?dl=0)
 
 Next was Hissar fortress, located a short drive away from the city.
 This was frankly underwhelming, as the visible buildings are largely
@@ -73,7 +73,7 @@ goodbye to Parvina for the both of us as she was just our guide for Dushanbe.
 ### Drive to Khujand
 
 The next day, we set out with Feridun for Tajikistan's second largest city,
-[Khujand](XX)
+[Khujand](https://en.wikipedia.org/wiki/Khujand)
 which is located in the North.
 
 Along the way, we drove through several newly built tunnels, which
@@ -85,28 +85,28 @@ Around lunchtime, we stopped at Iskandor-Kol, this nice alpine lake. The real
 highlight though, was this waterfall we trekked out to. There was a perfect
 rainbow in the spray:
 
-![](XX)
+![](https://www.dropbox.com/s/jpmqq44yf10sesz/P6110047.JPG?dl=0)
 
 Picture taken from this pretty sketchy looking platform. Feridun assured
 us it was safe. After all, it was constructed in Soviet times! The placement
 of heavy rocks here was not reassuring...
 
-![](XX)
+![](https://www.dropbox.com/s/u614ok5claszp35/P6110061.JPG?dl=0)
 
-From here, we drove to IstaravafanXX, an old city sacked by Alexander the Great
+From here, we drove to Istaravshan, an old city sacked by Alexander the Great
 back in the day. There are only remnants of the original old fortress, but a new
 gleaming gate was built in 2002 for the city's 2500th anniversary.
 
 Finally, it was onwards to Khujand. It's thought to be the far reaches of
-Alexaner the Great's Empire, XX. In Soviet times, the city was named
+Alexander the Great's Empire, XX. In Soviet times, the city was named
 Leninabad, the main street of which was Lenin, on which was this huge
 statue of Lenin:
 
-![](XX)
+![](https://www.dropbox.com/s/js3i99v0rh37aoc/P6110080.JPG?dl=0)
 
 It's since been moved to a more out of the way location (replaced with a statue
 of Somoni of course). Our guide told us that it is the largest still standing
-statue of Lenin in the former Socialist Republics (minus Russia?XXX).
+statue of Lenin in the former Socialist Republics.
 
 At dinner, Faridun insisted we try some local alcohol. Unfortunately, the
 restaurant wasn't serving it on account of Ramadan, so he just ran to a local
@@ -116,7 +116,7 @@ adulterate it with watermelon were less successful.
 ### Khujand
 
 We finished up sight-seeing in Khujand the next morning, first meeting our
-guide in the city, XX. The highlight of the day was the beautiful Bazaar:
+guide in the city, Shahboz. The highlight of the day was the beautiful Bazaar:
 
 ![](XX)
 
@@ -134,10 +134,10 @@ Uzbekistan. A couple of hours before we were supposed to cross the land border
 by ourselves, this was not particular reassuring...
 
 After lunch we bid farewell to our guides. I don't often travel with guides,
-but my experience in Tajikistan showed me how much of a differenc they can
+but my experience in Tajikistan showed me how much of a difference they can
 make. Of the three countires so far, Aaron and I efinitely liked Tajikistan
 the most, and I think that is in large part to the interesting conversations
-we had with our local guides. Here's a picture of us with Faridun and XX
+we had with our local guides. Here's a picture of us with Faridun and Shahboz
 on the last day, unfortunately we missed getting a picture with Parvina:
 
 ![](XX)

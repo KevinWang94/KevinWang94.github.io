@@ -56,7 +56,7 @@ revolutions, from [2005](https://en.wikipedia.org/wiki/Tulip_Revolution)
 and [2010](https://en.wikipedia.org/wiki/Kyrgyz_Revolution_of_2010)
 both of which deposed national leaders. This makes Kyrgyzstan unique amongst
 the Stans, as Kazakhstan, Tajikistan, and Uzbekistan are all still led by the
-originaly post-Soviet leader, and Turkmenistan was as well until
+original post-Soviet leader, and Turkmenistan was as well until
 [Niyazov](https://en.wikipedia.org/wiki/Saparmurat_Niyazov)
 passed away in 2006.
 
@@ -98,7 +98,7 @@ this was probably the cloest we got to it. Unfortunately, the road to the three
 alpine lakes was probably the longest and bumpiest I've done in a decade.
 Frankly while the lakes were beautiful, it was probably not worth the extra
 distance up the gorge. And of course, it began to rain right around when we
-reached the lakes. The made the couple tiny streams we had driven through
+reached the lakes. This made the couple tiny streams we had driven through
 a bit more harrowing on the way back. Again, Slava seemed unfazed and did an
 excellent job getting us back. I, on the other hand, was largely asleep. Here's
 a shot of our vehicle from this day:
@@ -119,7 +119,12 @@ damn mountains in the way. This meant that we had to drive basically
 back to Bishkek and then from there to Almaty, again making the chaotic
 border crossing.
 
-Our adventures in Kazakhstan weren't quite done though. We went to this somewhat
+Our adventures in Kazakhstan weren't quite done though. We had seen all these
+signs around Almaty for McDonald's, so we went searching for one, as I
+especially enjoy international McDonald's. Unfortunately,
+we ended up at what was apparently their corporate office instead of a
+food-serving location. We were told that real establishments had sadly not
+yet arrived. So instead, we went to this somewhat
 swanky place for dinner, and managed to run out of local currency, which
 was quite embarassing. The meal was even quite affordable by American standards:
 around $10 each. But given that all our other meals had been less than half that,
