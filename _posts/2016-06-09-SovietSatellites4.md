@@ -10,7 +10,12 @@ tags: [ 'Soviet' ]
 
 In our largely East to West itinerary, Kyrgyzstan was up next. It holds several
 distinctions amongst the Stans, being both the most difficult to spell
-as well as the most democratic.
+as well as the most democratic. It is also home to the bizarre/terrible
+tradition of bride kidnapping. See
+[here](XX)
+for a VICE feature by Thomas Morton on the phenomenon. As an aside, I highly
+recommend Morton and VICE in general, their content is both unique and quite
+interesting.
 
 ### Drive to Bishkek
 

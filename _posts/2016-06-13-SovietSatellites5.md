@@ -8,18 +8,18 @@ tags: [ 'Soviet' ]
 
 ### Intro
 
-From Almaty, flew to Tajikistan, described by our guidebook as
+From Almaty, we flew to Tajikistan, described by our guidebook as
 "arguably Central Asia's most exciting destination." We certainly
-had a great time.
+had a great time!
 
 ### Dushanbe
 
 We arrived in Dushanbe Airport just after lunchtime, and passed through a
 surprisingly relaxed passport control before meeting our guides for the day,
-Parvina and Faridun. In addition to guiding, they both worked as teachers, of
-English and Chemistry respectively. Parvina was especially interesting in that
-she called attention to herself being a modern Muslim woman, having gone to
-college and also being divorced, both incredibly rare in this traditional
+Parvina and Faridun. In addition to guiding, they both worked as teachers of
+English and Chemistry, respectively. Parvina was especially interesting in that
+she called attention to herself being a "modern Muslim woman," having gone to
+college and also been divorced, both incredibly rare in this traditional
 country in which many marriages are still arranged.
 
 After making peace with the heat, we walked around the downtown area
@@ -50,7 +50,7 @@ regarding their (at this point basically Eternal) President
 [Emomali Rahmon](https://en.wikipedia.org/wiki/Emomali_Rahmon). Here's
 a map of all his trips around the world:
 
-![](https://www.dropbox.com/s/p7i3acv4ymsp6o3/P6100010.JPG?dl=0)
+![](https://dl.dropboxusercontent.com/s/p7i3acv4ymsp6o3/P6100010.JPG?dl=0)
 
 There was also a luxuriously decorated room dedicated to gifts given to
 him by world leaders.
@@ -58,7 +58,7 @@ We had seen identical (albeit flashier) displays in the DPRK. There was even
 a display of his various works, all of which were read by our museum guide
 while in university:
 
-![](https://www.dropbox.com/s/3lsnfyode7613mv/P6100011.JPG?dl=0)
+![](https://dl.dropboxusercontent.com/s/3lsnfyode7613mv/P6100011.JPG?dl=0)
 
 Next was Hissar fortress, located a short drive away from the city.
 This was frankly underwhelming, as the visible buildings are largely
@@ -85,13 +85,13 @@ Around lunchtime, we stopped at Iskandor-Kol, this nice alpine lake. The real
 highlight though, was this waterfall we trekked out to. There was a perfect
 rainbow in the spray:
 
-![](https://www.dropbox.com/s/jpmqq44yf10sesz/P6110047.JPG?dl=0)
+![](https://dl.dropboxusercontent.com/s/jpmqq44yf10sesz/P6110047.JPG?dl=0)
 
 Picture taken from this pretty sketchy looking platform. Feridun assured
 us it was safe. After all, it was constructed in Soviet times! The placement
 of heavy rocks here was not reassuring...
 
-![](https://www.dropbox.com/s/u614ok5claszp35/P6110061.JPG?dl=0)
+![](https://dl.dropboxusercontent.com/s/u614ok5claszp35/P6110061.JPG?dl=0)
 
 From here, we drove to Istaravshan, an old city sacked by Alexander the Great
 back in the day. There are only remnants of the original old fortress, but a new
@@ -102,7 +102,7 @@ Alexander the Great's Empire, XX. In Soviet times, the city was named
 Leninabad, the main street of which was Lenin, on which was this huge
 statue of Lenin:
 
-![](https://www.dropbox.com/s/js3i99v0rh37aoc/P6110080.JPG?dl=0)
+![](https://dl.dropboxusercontent.com/s/js3i99v0rh37aoc/P6110080.JPG?dl=0)
 
 It's since been moved to a more out of the way location (replaced with a statue
 of Somoni of course). Our guide told us that it is the largest still standing
