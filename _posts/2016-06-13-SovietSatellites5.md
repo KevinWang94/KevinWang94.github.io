@@ -83,8 +83,7 @@ unsurprisingly greatly shortened the driving distance. They were also a great
 example of foreign industry, as all of them seemed to have been dug by either
 Chinese or Iranian companies. 
 
-Around lunchtime, we stopped at [Iskandor-Kol](XX),
-this nice alpine lake. The real
+Around lunchtime, we stopped at Iskandor-Kol, this nice alpine lake. The real
 highlight though, was this waterfall we trekked out to. There was a perfect
 rainbow in the spray:
 
@@ -98,7 +97,7 @@ spaced and bent bars:
 ![](https://dl.dropboxusercontent.com/s/u614ok5claszp35/P6110061.JPG?dl=0)
 
 From here, we drove to
-[Istaravshan](XX),
+[Istaravshan](https://en.wikipedia.org/wiki/Istaravshan),
 an old city sacked by Alexander the Great
 back in the day. There are only remnants of the original old fortress, but a new
 gleaming gate was built in 2002 for the city's 2500th anniversary. Again,
@@ -123,20 +122,23 @@ shop and bought some vodka. It was surprisingly smooth. My attempts to
 adulterate it with watermelon were less successful.
 
 We finished up sight-seeing in Khujand the next morning, first meeting our
-guide in the city, Shahboz. The highlight of the day was the beautiful Bazaar:
+guide in the city, Shahboz. The highlight of the day was the beautiful Bazaar,
+which included amongst other things, piles of sour cream out in the open
+for purchase, pieces of pure Calcium for pregnant women, and this wonderful
+iPhone case:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/viea4k3qpmbo7wu/P6110098.JPG?dl=0)
 
 Driving around the city, I finally snapped a picture of one of the many
 Rahmon posters that are all around Tajikistan. He wasn't quite as ubiquitous
 as the Kims in the DPRK, but pretty darn close. For example, our hotel in
 Khujand displayed photos of him at its opening.
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/61vz2gc7ssapxhk/P6110102.JPG?dl=0)
 
 Over lunch, we had a nice chat with Boz. He shared some interesting thoughts
 about everything from regional politics to the Sunni - Shi'a split.
-Nearly all of Central Asia is Sunni, but apparently conversions to Shi'ismXX
+Nearly all of Central Asia is Sunni, but apparently conversions to Shi'ism
 brought about by Iran do occur, and tensions may be mounting. He also told
 several horror stories about people being detained while exiting or entering
 Uzbekistan. A couple of hours before we were supposed to cross the land border
@@ -147,8 +149,10 @@ but my experience in Tajikistan showed me how much of a difference they can
 make. Of the three countires so far, Aaron and I efinitely liked Tajikistan
 the most, and I think that is in large part to the interesting conversations
 we had with our local guides. I would not hesitate to recommend
-[Faridun](XX), Parvina, or [Shahboz](XX) for anyone journeying to Tajikistan.
+[Faridun](https://www.facebook.com/profile.php?id=100003203084678),
+Parvina, or [Shahboz](https://www.facebook.com/shahboz.akramzoda) for anyone
+journeying to Tajikistan.
 Here's a picture of us with Faridun and Shahboz
 on the last day, unfortunately we missed getting a picture with Parvina:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/2t0fjsyiv8wxam2/P6120114.JPG?dl=0)
