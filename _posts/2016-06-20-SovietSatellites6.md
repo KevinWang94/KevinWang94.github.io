@@ -9,15 +9,16 @@ tags: [ 'Soviet' ]
 ### Intro
 
 And so we came to our final Stan: Uzbekistan. It contains the lion's share
-of famous Silk Road cities such as [Samarkand](XX) and [Khiva](XX)
-and is where we spent most of our time this trip (around a week).
-
+of famous Silk Road cities such as
+[Samarkand](https://en.wikipedia.org/wiki/Samarkand) and
+[Khiva](https://en.wikipedia.org/wiki/Khiva)
+and is where we spent most of our time this trip (around a week). As such,
+this post will be a bit less detailed than the others.
 
 Thankfully, walking across the border by ourselves from Tajikistan
 wasn't a problem, and we were met on the other side by our guide for the entire
 week, Utkir, as well as our driver, Erkin. A white Chevrolet, just like
 everyone else in this country.
-
 
 ### Samarkand
 

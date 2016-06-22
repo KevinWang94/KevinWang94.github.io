@@ -81,7 +81,11 @@ which is located in the North.
 Along the way, we drove through several newly built tunnels, which
 unsurprisingly greatly shortened the driving distance. They were also a great
 example of foreign industry, as all of them seemed to have been dug by either
-Chinese or Iranian companies. 
+Chinese or Iranian companies. Here's a shot of our car in the mountains, an
+[Opel](https://en.wikipedia.org/wiki/Opel). It's a German brand owned by GM
+that seems to have majority of the market in Tajikistan:
+
+![](https://dl.dropboxusercontent.com/s/hm76046bxsqt2m7/P6110043.JPG?dl=0)
 
 Around lunchtime, we stopped at Iskandor-Kol, this nice alpine lake. The real
 highlight though, was this waterfall we trekked out to. There was a perfect
@@ -136,7 +140,8 @@ Khujand displayed photos of him at its opening.
 
 ![](https://dl.dropboxusercontent.com/s/61vz2gc7ssapxhk/P6110102.JPG?dl=0)
 
-Over lunch, we had a nice chat with Boz. He shared some interesting thoughts
+Our final stop was at a nice resort area on a man-made lake. Over lunch
+there, we had a nice chat with Boz. He shared some interesting thoughts
 about everything from regional politics to the Sunni - Shi'a split.
 Nearly all of Central Asia is Sunni, but apparently conversions to Shi'ism
 brought about by Iran do occur, and tensions may be mounting. He also told
@@ -146,7 +151,7 @@ by ourselves, this was not particular reassuring...
 
 After lunch we bid farewell to our guides. I don't often travel with guides,
 but my experience in Tajikistan showed me how much of a difference they can
-make. Of the three countires so far, Aaron and I efinitely liked Tajikistan
+make. Of the three countires so far, Aaron and I definitely liked Tajikistan
 the most, and I think that is in large part to the interesting conversations
 we had with our local guides. I would not hesitate to recommend
 [Faridun](https://www.facebook.com/profile.php?id=100003203084678),
