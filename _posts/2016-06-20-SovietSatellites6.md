@@ -48,8 +48,13 @@ And of course, the Registan, three madrasas at the center of the city:
 In Samarkand, we also experienced
 [Uzbek plov](https://munchies.vice.com/en/recipes/uzbek-plov)
 for the first time. Or as our guidebook described it, "plov, glorious plov."
-It's a cousin of pilaf, but with the rice 
-For lunch Plov lunch, glorious plov. 
+It's a cousin of pilaf, but with the rice cooked in a fatty, meaty stew.
+Every region of the country has its own variant, which is of course the best.
+Here's a shot of our Samarkand plate (one big one for the whole table):
+
+![](XX)
+
+On our way out of 
 
 ### Bukhara
 
@@ -66,8 +71,16 @@ Central Asia, and had previously been to both North Korea and Iran.
 
 ### Khiva
 
-### Tashkent
 
+
+### To Tashkent
+
+We took an evening flight 
+[Tashkent](https://en.wikipedia.org/wiki/Tashkent) is Uzbekistan's capital
+and also Central Asia's largest city. It and Almaty were definitely the most
+modern cities we visited.
+
+[Shanghai Cooperation Organization](https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation)
 Busy with the preparations for the Six Nations Summit. 
 
 Plov center. 
