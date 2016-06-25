@@ -28,7 +28,7 @@ groups getting up to dance, from older women to a band of high school guys.
 It was definitely more raucous than I expected given Ramadan, more on this later.
 Here's a bad picture of some of the dancing:
 
-![](https://www.dropbox.com/s/pyycpcegqc8ytue/P6120119.JPG?dl=0)
+![](https://dl.dropboxusercontent.com/s/pyycpcegqc8ytue/P6120119.JPG?dl=0)
 
 The next day was sightseeing in the earnest. Samarkand definitely has the
 most quintessentially beautiful buildings of Central Asia, with stunning
