@@ -53,7 +53,7 @@ Thanks to Aaron for writing some of the sentences below.
 Transnistria as a tourist attraction is advertised as the
 "last slice of the USSR," but besides a handful of Lenin statues,
 Transnistria could have been anywhere in Eastern Europe. And indeed, we saw
-more Lenin statues in Kazakhstan and larger ones in Kyrgyzstan.
+more Lenin statues in Kyrgyzstan and larger ones in Tajikistan.
 The main anomaly was the prevalence of Russian (not Soviet) flags and banners
 calling for unification with Russia:
 
