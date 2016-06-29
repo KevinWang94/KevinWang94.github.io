@@ -182,3 +182,18 @@ From here it was time to say goodbye to Utkir and the Stans, onwards to
 Moldova! A picture of the three of us from the last day:
 
 ![](XX)
+
+### Stans Parting Thoughts
+
+I'm so glad I had the chance to visit these Silk Road countries, even if we did
+end up missing Turkmenistan. Would definitely encourage anyone considering
+a trip to go for it! As mentioned before, Central Asia is a region with an
+incredibly diverse set of histories and peoples. It's also a
+great place to see the strong legacies of Soviet control, as well as the very
+recent construction of national and ethnic identities.
+
+I think if I had to do it over again, I might opt for
+arranging my own accomodations along with day guides/drivers, as we ended up
+staying in unnecessarily nice hotels. Traveling through the region totally
+alone is definitely possible, though one would probably need to be time flexible
+given the possibility for things to go wrong, lack of English speakers, etc.
