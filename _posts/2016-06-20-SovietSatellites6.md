@@ -92,24 +92,24 @@ preserved:
 Next up was [Bukhara](XX), where we spent three nights (basically one too
 many). For me, the highlight here was the Ark Citadel, former residence
 of the Emir of Bukhara. It contains the
-[bug pit](https://www.vice.com/read/brutality-report-knowledge-of-the-bug-pit) where
-Stoddart and Conolly of Great Game fame were kept, and also the
+[bug pit](https://www.vice.com/read/brutality-report-knowledge-of-the-bug-pit)
+where Stoddart and Conolly of Great Game fame were kept, and also the
 square where they were executed:
 
 ![](XX)
 
-Peter Hopkirk's [The Great Game](https://en.wikipedia.org/wiki/The_Great_Game_(Peter_Hopkirk_book))
+Peter Hopkirk's
+[The Great Game](https://en.wikipedia.org/wiki/The_Great_Game_(Peter_Hopkirk_book))
 is a great read for anyone interested in this and other stories about
-Central Asia, a nonfiction book that reads like an exciting thriller. 
-historically XXX.
+Central Asia, a nonfiction book that reads like an exciting thriller.
 
-The other highlight was the Chor Minor, XXX, the cover of the
-[Lonely Planet guidebook](XX) that basically all travelers through
-the region seemed to have. 
+The other highlight was the Chor Minor, a XXX,
+that also graces the cover of the
+[Lonely Planet Central Asia guidebook](XX).
+Every traveler we came across in the Stans seemed to have this book.
 
-Adventure for Watermelon.
-
-Next day: MacBurger City! 
+While in the area, we also saw the Emir's Summer Palace and the mausoleum
+of Islail SomoniXX, Tajikistan's national hero.
 
 ### Ayazkala: Yurt Stay!
 
@@ -127,8 +127,13 @@ with a couple camels just chilling, a the ruins of a fort in the background:
 ![](XX)
 
 Despite Utkir's warnings about the accomodations and food, we actually had
-a pretty good time. And we met a kindred spirit
-traveler, a retired gentleman named Michael who was also traveling across
+a pretty good time. The yurt was right next to these ancient forts that were
+fun to climb up and around:
+
+![](XX)
+
+We also met a kindred spirit traveler while staying at the yurts,
+a retired gentleman named Michael who was also traveling across
 Central Asia, and had recently been to both North Korea and Iran.
 Hopefully I'm that cool when I'm older!
 
@@ -160,8 +165,20 @@ cabin and all the condensation it caused:
 
 Thankfully, we made it to Tashkent in one piece, only to find that our initial
 hotel completely booked on account of an upcoming meeting of the
-[Shanghai Cooperation Organization](https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation)
+[Shanghai Cooperation Organization](https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation).
+The next day, we did some sightseeing in Tashkent, including lunch at the
+[National Plov Center](XX).
+Look at these huge batches of plov!
 
-Plov center.
+![](XX)
 
-It was goodbye to Utkir and the Stans, onwards to Moldova.
+For our last dinner, we went to this Uzbek fast food clone, BBQ Burger,
+and finished up with a "cocktail." We had strugled all day to actually find
+cocktails, with most places' cocktails actually just being smoothies.
+This one bar supposedly had only one drink, a Long Island Iced Tea, which turned
+out to basically be some sort of orange juice and liquor concoction...
+
+From here it was time to say goodbye to Utkir and the Stans, onwards to
+Moldova! A picture of the three of us from the last day:
+
+![](XX)
