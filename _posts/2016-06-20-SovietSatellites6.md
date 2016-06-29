@@ -40,9 +40,10 @@ denomination bill is 5000, less than a single US Dollar! So, paying for anything
 in Uzbekistan involves handing over a huge stack of cash. I'm still unclear
 as to why they don't print a larger bill...the lost productivity from having
 to count cash all the time seems unfortunate. Here's a picture of a hundred
-dollar bill and all the SomXX it turned into:
+dollar bill and all the [som](https://en.wikipedia.org/wiki/Uzbekistani_som)
+it turned into:
 
-![](XX)
+![](https://www.dropbox.com/s/d143vfvbg86g239/P6120115.JPG?dl=0)
 
 ### Samarkand
 
@@ -90,13 +91,14 @@ preserved:
 
 Next up was [Bukhara](XX), where we spent three nights (basically one too
 many). For me, the highlight here was the Ark Citadel, former residence
-of the Emir of Bukhara. It contains the [bug pit](XX) where
-[Stoddard and Connolly](XX) of Great Game fame were kept, and also the
+of the Emir of Bukhara. It contains the
+[bug pit](https://www.vice.com/read/brutality-report-knowledge-of-the-bug-pit) where
+Stoddart and Conolly of Great Game fame were kept, and also the
 square where they were executed:
 
 ![](XX)
 
-Peter Hopkirk's [The Great Game](XX)
+Peter Hopkirk's [The Great Game](https://en.wikipedia.org/wiki/The_Great_Game_(Peter_Hopkirk_book))
 is a great read for anyone interested in this and other stories about
 Central Asia, a nonfiction book that reads like an exciting thriller. 
 historically XXX.
@@ -157,9 +159,8 @@ cabin and all the condensation it caused:
 ![](XX)
 
 Thankfully, we made it to Tashkent in one piece, only to find that our initial
-
+hotel completely booked on account of an upcoming meeting of the
 [Shanghai Cooperation Organization](https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation)
-Busy with the preparations for the Six Nations Summit. 
 
 Plov center.
 
