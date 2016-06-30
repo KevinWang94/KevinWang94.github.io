@@ -23,7 +23,7 @@ trusty white Chevrolet, like basically every other car in the country.
 This is really only a slight exaggeration, as we routinely had trouble finding
 our car in a sea of identical white sedans:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/2w5qe713vy9kemf/P6130188.JPG?dl=0)
 
 Apparently, due to high import taxes for vehicles, most people drive the
 Chevrolets produced by
@@ -43,7 +43,7 @@ to count cash all the time seems unfortunate. Here's a picture of a hundred
 dollar bill and all the [som](https://en.wikipedia.org/wiki/Uzbekistani_som)
 it turned into:
 
-![](https://www.dropbox.com/s/d143vfvbg86g239/P6120115.JPG?dl=0)
+![](https://dl.dropboxusercontent.com/s/d143vfvbg86g239/P6120115.JPG?dl=0)
 
 ### Samarkand
 
@@ -74,14 +74,15 @@ each in stunning blue tile:
 In Samarkand, we also experienced
 [Uzbek plov](https://munchies.vice.com/en/recipes/uzbek-plov)
 for the first time. Or as our guidebook described it, "plov, glorious plov."
-It's a cousin of pilaf, but with the rice cooked in a fatty, meaty stewXX.
+It's a cousin of pilaf, but with the rice cooked in a fatty, meaty stew.
 Every region of the country has its own variant, which is of course the best.
 Here's a shot of our Samarkand plate (one big one for the whole table):
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/q2fjqxoe0t2fggj/P6130197.JPG?dl=0)
 
-On our way out of Samarkand, we stopped by SHarhXX, also built by TimurXX.
-It gives a glimpse as to what Samarkand would have looked like without
+On our way out of Samarkand, we stopped by
+[Shakhrisabz](https://en.wikipedia.org/wiki/Shahrisabz), the birthplace of
+Timur. It gives a glimpse as to what Samarkand would have looked like without
 restorations. Generally, a pretty decent percentage of the tilework is still
 preserved:
 
@@ -89,7 +90,7 @@ preserved:
 
 ### Bukhara
 
-Next up was [Bukhara](XX), where we spent three nights (basically one too
+Next up was Bukhara, where we spent three nights (basically one too
 many). For me, the highlight here was the Ark Citadel, former residence
 of the Emir of Bukhara. It contains the
 [bug pit](https://www.vice.com/read/brutality-report-knowledge-of-the-bug-pit)
@@ -105,11 +106,11 @@ Central Asia, a nonfiction book that reads like an exciting thriller.
 
 The other highlight was the Chor Minor, a XXX,
 that also graces the cover of the
-[Lonely Planet Central Asia guidebook](XX).
+[Lonely Planet Central Asia guidebook](https://www.amazon.com/Lonely-Planet-Central-Travel-Guide/dp/1741799538).
 Every traveler we came across in the Stans seemed to have this book.
 
 While in the area, we also saw the Emir's Summer Palace and the mausoleum
-of Islail SomoniXX, Tajikistan's national hero.
+of Isma'il Somoni, Tajikistan's national hero.
 
 ### Ayazkala: Yurt Stay!
 
@@ -141,7 +142,7 @@ Hopefully I'm that cool when I'm older!
 
 From Ayazkala we drove to Khiva for the day, basically a well-preserved
 old city, a "museum city" as our guidebook described it. Unfortunately, by
-this point in the trip I was a little tired of seeing blue tiled madrasahsXX,
+this point in the trip I was a little tired of seeing blue tiled madrasas,
 and it was punishingly hot outside. But, in hindsight, it really was a beautiful
 area, and climbing out on the old city walls was a good time. 
 
@@ -153,7 +154,7 @@ and also Central Asia's largest city. It and Almaty were definitely the most
 modern cities we visited. The flight was completely ridiculous, beginning with
 these hand-written boarding passes:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/4zv3o8mj2ij9n04/P6180144.JPG?dl=0)
 
 Then, once on the plane, we realized that the seats weren't fixed, being
 able to fold completely down and forward. The many unoccupied seats of course
@@ -161,16 +162,14 @@ all did this upon landing. In addition, our checked luggage was merely dragged
 into the cabin for us, and we could see compressed oxygen streaming into the
 cabin and all the condensation it caused:
 
-![](XX)
-
 Thankfully, we made it to Tashkent in one piece, only to find that our initial
 hotel completely booked on account of an upcoming meeting of the
 [Shanghai Cooperation Organization](https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation).
 The next day, we did some sightseeing in Tashkent, including lunch at the
-[National Plov Center](XX).
+[National Plov Center](https://www.finedininglovers.com/blog/culinary-stops/central-asia-plov-center-uzbekistan/).
 Look at these huge batches of plov!
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/uxue0bcp4az2drz/P6190162.JPG?dl=0)
 
 For our last dinner, we went to this Uzbek fast food clone, BBQ Burger,
 and finished up with a "cocktail." We had strugled all day to actually find
@@ -181,7 +180,7 @@ out to basically be some sort of orange juice and liquor concoction...
 From here it was time to say goodbye to Utkir and the Stans, onwards to
 Moldova! A picture of the three of us from the last day:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/acp5d60pv21qdrd/P6190178.JPG?dl=0)
 
 ### Stans Parting Thoughts
 
