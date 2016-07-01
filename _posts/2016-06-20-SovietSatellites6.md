@@ -62,14 +62,14 @@ aggressive restorations throughout. Highlights included the
 [Shah-i-Zinda Mausoleum Complex](https://en.wikipedia.org/wiki/Shah-i-Zinda)
 with its beautiful tilework:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/7mm98ycgh0wc2bu/P6130162Edit.jpg?dl=0)
 
 as well as the [Mausoleum](https://en.wikipedia.org/wiki/Gur-e-Amir)
 of Uzbekistan's national hero, [Timur](https://en.wikipedia.org/wiki/Timur).
 And of course, the Registan, three madrasas at the center of the city,
 each in stunning blue tile:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/65gr19870scfuht/P6130032.JPG?dl=0)
 
 In Samarkand, we also experienced
 [Uzbek plov](https://munchies.vice.com/en/recipes/uzbek-plov)
@@ -86,7 +86,7 @@ Timur. It gives a glimpse as to what Samarkand would have looked like without
 restorations. Generally, a pretty decent percentage of the tilework is still
 preserved:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/pgxv772xfgqns7d/P6140007.JPG?dl=0)
 
 ### Bukhara
 
@@ -95,17 +95,14 @@ many). For me, the highlight here was the Ark Citadel, former residence
 of the Emir of Bukhara. It contains the
 [bug pit](https://www.vice.com/read/brutality-report-knowledge-of-the-bug-pit)
 where Stoddart and Conolly of Great Game fame were kept, and also the
-square where they were executed:
-
-![](XX)
-
-Peter Hopkirk's
+square where they were executed. Peter Hopkirk's
 [The Great Game](https://en.wikipedia.org/wiki/The_Great_Game_(Peter_Hopkirk_book))
 is a great read for anyone interested in this and other stories about
 Central Asia, a nonfiction book that reads like an exciting thriller.
 
-The other highlight was the Chor Minor, a XXX,
-that also graces the cover of the
+The other highlight was the
+[Chor Minor](http://www.advantour.com/uzbekistan/bukhara/chor.htm),
+a madrasa with four minarets that also graces the cover of the
 [Lonely Planet Central Asia guidebook](https://www.amazon.com/Lonely-Planet-Central-Travel-Guide/dp/1741799538).
 Every traveler we came across in the Stans seemed to have this book.
 
@@ -116,7 +113,7 @@ of Isma'il Somoni, Tajikistan's national hero.
 
 Up next was a yurt stay, actually in the middle of nowhere in the desert:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/wm5gbqkq0wcooth/P6170056.JPG?dl=0)
 
 Unsurprisingly, our guide and driver were not particularly happy about
 having to stay there with us. Utkir
@@ -125,18 +122,21 @@ civilization thirty minutes away. But this seemed like an interesting Central
 Asian experience, albeit one constructed for tourists. Our camp was complete
 with a couple camels just chilling, a the ruins of a fort in the background:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/g8hekdsnsteona6/P6170088.JPG?dl=0)
 
 Despite Utkir's warnings about the accomodations and food, we actually had
 a pretty good time. The yurt was right next to these ancient forts that were
 fun to climb up and around:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/lp1l6hxdm1u9ht0/P6170063.JPG?dl=0)
 
 We also met a kindred spirit traveler while staying at the yurts,
 a retired gentleman named Michael who was also traveling across
 Central Asia, and had recently been to both North Korea and Iran.
-Hopefully I'm that cool when I'm older!
+Hopefully I'm that cool when I'm older! Here's Aaron and I with the yurt
+the morning of our departure:
+
+![](https://dl.dropboxusercontent.com/s/e62tt88w5r83x2d/P6170098.JPG?dl=0)
 
 ### Khiva
 
