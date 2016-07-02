@@ -12,7 +12,7 @@ Our last Soviet Satellite was Moldova, added at the last minute due to our
 Turkmenistan visas falling through. We were mostly in Moldova for the chance
 to visit [Transnistria](https://en.wikipedia.org/wiki/Transnistria),
 a breakaway state that has been described as
-"a veritable supermarket of drugs, girls and weapons." We had actually
+"a veritable supermarket of drugs, girls, and weapons." We had actually
 considered going the year of our [Balkans]({{ "/tags/iceland.html" | prepend: site.baseurl }})
 trip, but were scared away by these sorts of descriptions on the internet
 as well as the dire warnings of a Romanian friend. This time, we did more
@@ -34,11 +34,15 @@ slightly apprehensive but excited for the next day.
 Getting from Chisinau to Transnistria is actually quite straightforward, with
 buses running frequently to Transnistria's capital,
 [Tiraspol](https://en.wikipedia.org/wiki/Tiraspol).
-We were a bit apprehensive about the border, having heard many stories of
+We were a bit worried about the border, having heard many stories of
 travelers being detained and asked for bribes. As a precaution, we wrote down
 a bunch of phrases in Russian such as "No bribes!" as well as the
 anti-bribery hotline. Apparently these had been useful for travelers in the
-past. Thankfully, the border going in was no problem, and we were handed
+past:
+
+![](XX)
+
+Thankfully, the border going in was no problem, and we were handed
 the all important migration card without having to ask for it.
 We were even shepherded through by our bus driver who, although not an
 English-speaker, realized that two American tourists might put him behind
@@ -82,7 +86,10 @@ World War II as the Great Patriotic War, the 1992 conflict that secured
 Transnistria's unrecognized independence was simply the "Moldovan-Transnistrian 
 Conflict." We saw several war memorials to both conflicts, but nothing out of
 line with other post-Soviet cities. The Soviets did like their World War II
-monuments. Pardon me, Great Patriotic War monuments.
+monuments. Pardon me, Great Patriotic War monuments. Of course, there are
+also more light-hearted structures, including this "I <3 Tiraspol" sign:
+
+![](XX)
 
 The only really exceptionally jarring thing was the country's poor economic
 health. Our guide described how as a secondary school English teacher she would
@@ -115,6 +122,10 @@ Crimea. But, she also believed that anti-Moldova propaganda would make that reun
 challenging as well. Basically, the overall outlook seems rather grim, with
 no future scenarios being both desirable and feasible.
 
+On a happier note, here's a selfie we took with Sasha:
+
+![](XX)
+
 ### Exiting Transnistria
 
 Now the hard part, leaving Transnistria. This is largely where other travelers
@@ -128,9 +139,12 @@ we were on our way in thirty seconds flat. We had survived Transnistria!
 We ended by wandering around Chisinau, the highlight of which was this
 small Occupy-esque encampment, apparently by the
 [Dignity and Truth Platform Party](https://en.wikipedia.org/wiki/Dignity_and_Truth_Platform_Party)
-in response to worsening economic conditions and corruption scandals:
+in response to worsening economic conditions and corruption scandals.
+I wish we had had more time in Chisinau, but a whole day wandering around
+in the Transnistrian heat left me completely exhausted.
 
 ### The End
 
-This marks the end of our Sojourn through Soviet Satellite States!
-One more blog post coming with some general thoughts about the Stans.
+This marks the end of our Sojourn through Soviet Satellite States. For anyone
+who actually read this far, thanks for sticking around. From here the traveling
+continues, onward to Istanbul and 14 other European countries!

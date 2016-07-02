@@ -22,8 +22,8 @@ arriving in Kiev around dinner time. I somehow managed to break my glasses on th
 (yes, the same pair I broke in Iceland), but the flight was otherwise uneventful.
 After checking in, we went first to
 [Independence Square](https://en.wikipedia.org/wiki/Maidan_Nezalezhnosti)
-where the 2014 Revolution occurred. Of course, the area
-now seems largely a commercial shopping center, complete with a McDonald's
+where the 2014 Revolution occurred. Of course, the area is now calm,
+and largely a commercial shopping center, complete with a McDonald's
 at which I ate a "Seasoned American Burger." It was actually quite good,
 crunchy tomato & lettuce, BBQ sauce, and higher quality beef than in the US!
 
@@ -47,7 +47,9 @@ The event was a reminder that Ukraine is a country embroiled in an active
 war, a fact that cannot be missed while walking around Kiev. We passed
 several displays regarding the war, mostly walls of young men's photos
 commemorating those who had died. Even at Kiev Airport by the gates, there
-were these huge photos of soldiers:
+were these huge photos of soldiers. And random things all over the
+country were plastered in their colors (blue and yellow), perhaps a recent
+surge in nationalism.
 
 ![](https://dl.dropboxusercontent.com/s/jy07k95fo3j8a1f/IMG_20160605_160247.jpg?dl=0)
 
@@ -74,7 +76,8 @@ that the botched response by the Soviet authorities to the disaster
 resulted in many unnecessary deaths of nearby residents as well as emergency
 personnel. Also, the initial efforts to contain the radiation were made
 at great personal risk, with soldiers dropping sandbags by hand into the reactor
-from flying helicopters. There was also one video demonstrating that a flight from
+from helicopters flying above.
+There was also one video demonstrating that a flight from
 Toronto to Kiev resulted in more absorbed radiation than our trip to
 Chernobyl. I'm no radiation expert, but it appears that radiation increases
 significantly at high altitudes.
@@ -104,7 +107,6 @@ Highlights of the day included stops at city signs for Chernobyl and
 as well as visits to several abandoned structures including a school, amusement
 park, and garage. They were of course on the eery side, though honestly no more
 than other similarly-abandoned structures.
-
 Here is Aaron and I on the abandoned Ferris Wheel in Pripyat.
 There was also a neglected
 set of bumper cars, an indoor swimming pool with diving platforms, an outdoor
@@ -162,4 +164,4 @@ I really did not care for the mix of warm dumpling and alcohol though...
 In closing, Kiev is really a beautiful city, with lots of greenery and beautiful
 churches. It was really a much nicer stopover than either Aaron or I had expected.
 It has a nice old-time European feel without much of a Soviet vibe, while still
-being quite affordable. Up next: Kazakhstan!
+being very affordable. Up next: Kazakhstan!

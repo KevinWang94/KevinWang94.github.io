@@ -31,7 +31,7 @@ the rink that was built to stop mudslides. The view from the top was beautiful
 though!
 
 I also discovered here that our driver had been given a Burton sticker by some
-traveler: yay Vermont!
+traveler, yay Vermont!
 
 ![](https://dl.dropboxusercontent.com/s/bhhu114ekrh6x7e/P6060007.JPG?dl=0)
 

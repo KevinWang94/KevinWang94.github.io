@@ -11,7 +11,7 @@ tags: [ 'Soviet' ]
 And so we came to our final Stan: Uzbekistan. It contains the lion's share
 of famous Silk Road cities such as
 [Samarkand](https://en.wikipedia.org/wiki/Samarkand) and
-[Khiva](https://en.wikipedia.org/wiki/Khiva)
+[Khiva](https://en.wikipedia.org/wiki/Khiva),
 and is where we spent most of our time this trip (around a week). As such,
 this post will be a bit less detailed than the others.
 
@@ -35,7 +35,8 @@ government rate (around 5800 vs. 3300 while we were there). And while black
 market makes it sound sketchy, you can basically change money everywhere.
 Many storekeepers would openly quote rates at us once they heard
 us speaking English. No need for a shifty guy with a trash bag in the bazaar,
-though those apparently also exist. In another quirk, Uzbekistan's highest
+though those apparently also exist. There's also another quirk:
+Uzbekistan's highest
 denomination bill is 5000, less than a single US Dollar! So, paying for anything
 in Uzbekistan involves handing over a huge stack of cash. I'm still unclear
 as to why they don't print a larger bill...the lost productivity from having
@@ -50,7 +51,7 @@ it turned into:
 From the border, we drove to our first city, Samarkand. We were welcomed at
 dinner with, what else, vodka. The restaurant also had live music, with various
 groups getting up to dance, from older women to a band of high school guys.
-It was definitely more raucous than I expected given Ramadan, more on this later.
+It was definitely more raucous than I expected given Ramadan.
 Here's a bad picture of some of the dancing:
 
 ![](https://dl.dropboxusercontent.com/s/pyycpcegqc8ytue/P6120119.JPG?dl=0)
@@ -106,8 +107,17 @@ a madrasa with four minarets that also graces the cover of the
 [Lonely Planet Central Asia guidebook](https://www.amazon.com/Lonely-Planet-Central-Travel-Guide/dp/1741799538).
 Every traveler we came across in the Stans seemed to have this book.
 
+![](0035)
+
 While in the area, we also saw the Emir's Summer Palace and the mausoleum
-of Isma'il Somoni, Tajikistan's national hero.
+of Isma'il Somoni, Tajikistan's national hero. This is slightly awkward,
+but is due the USSR's particular partitioning of the region in the
+early 20th century.
+As such, many parts of Uzbekistan have substantial, or even majority
+Tajik populations. And of course, Uzbekistan has Timur to be their
+national hero.
+
+XX WELL OF JOB.
 
 ### Ayazkala: Yurt Stay!
 
@@ -120,13 +130,13 @@ having to stay there with us. Utkir
 asked us why the hell we had chosen to stay here, when there was human
 civilization thirty minutes away. But this seemed like an interesting Central
 Asian experience, albeit one constructed for tourists. Our camp was complete
-with a couple camels just chilling, a the ruins of a fort in the background:
+with a couple camels just chilling, and the ruins of a fort in the background:
 
 ![](https://dl.dropboxusercontent.com/s/g8hekdsnsteona6/P6170088.JPG?dl=0)
 
 Despite Utkir's warnings about the accomodations and food, we actually had
-a pretty good time. The yurt was right next to these ancient forts that were
-fun to climb up and around:
+a pretty good time. The nearby ancient forts were quite
+fun to climb up and around, and dinner (plov of course) was pretty good.
 
 ![](https://dl.dropboxusercontent.com/s/lp1l6hxdm1u9ht0/P6170063.JPG?dl=0)
 
@@ -160,11 +170,12 @@ Then, once on the plane, we realized that the seats weren't fixed, being
 able to fold completely down and forward. The many unoccupied seats of course
 all did this upon landing. In addition, our checked luggage was merely dragged
 into the cabin for us, and we could see compressed oxygen streaming into the
-cabin and all the condensation it caused:
+cabin and all the condensation it caused.
 
 Thankfully, we made it to Tashkent in one piece, only to find that our initial
 hotel completely booked on account of an upcoming meeting of the
 [Shanghai Cooperation Organization](https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation).
+Our driver was thankfully still with us and found us accomodations elsewhere.
 The next day, we did some sightseeing in Tashkent, including lunch at the
 [National Plov Center](https://www.finedininglovers.com/blog/culinary-stops/central-asia-plov-center-uzbekistan/).
 Look at these huge batches of plov!

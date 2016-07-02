@@ -25,18 +25,18 @@ aggressive about passing on the single-lane highway, leading us to be within a
 second of colliding with oncoming traffic multiple times. The situation is
 exacerbated by the variety of cars in this area. Central Asia apparently imports
 a lot of used cars from Japan, which drives on the left, despite the fact that
-these countries all drive on the right. So, our driver Slava ends up on the
+these countries all drive on the right. So, our driver Slava ended up on the
 right side of the car, behind a huge truck that's blocking visibility, while
 trying to pass on the left. As you might imagine, this leads to a lot of
-leftward drifting followed by abrupt right swerving upon seeing an oncoming
-car. Thankfully, we survived the four days in Kazakhstan and Kyrgyzstan without
+leftward drifting followed by abrupt right swerving upon seeing oncoming
+traffic. Thankfully, we survived the four days in Kazakhstan and Kyrgyzstan without
 incident. Slava was surprisingly nonchalant about the long days in these driving
-conditions. Let's see if Tajikistan and Uzbekistan are any better.
+conditions. Let's see if Tajikistan and Uzbekistan are any better...
 
-We thankfully exited the country without incident, though the border crossing
+We thankfully exited Kazakhstan without incident, though the border crossing
 was a bit chaotic and confusing at times. No need to bribe my way
 out of the country as a friend of mine had done a couple years ago after
-misplacing some paperwork.
+misplacing some paperwork!
 
 ### Bishkek
 
@@ -50,28 +50,28 @@ since converted into the American University of Central Asia:
 
 Here's that statue of Lenin, still in a prominent location. Apparently, Lenin
 remains quite respected in the area, as he put a stop to many cruel policies 
-by the Czar. On the other hand, Stalin is unsurprisingly less
+by the Russian Czar. On the other hand, Stalin is unsurprisingly less
 revered, having enacted the forced settlement of many of the area's nomadic 
-peoples amongst other misdeeds.
+peoples, amongst other misdeeds.
 
 ![](https://dl.dropboxusercontent.com/s/by1g4jxdl1445sj/P6070053.JPG?dl=0)
 
 It was while in Bishkek that we heard a bit about the country's two recent
 revolutions, from [2005](https://en.wikipedia.org/wiki/Tulip_Revolution)
-and [2010](https://en.wikipedia.org/wiki/Kyrgyz_Revolution_of_2010)
+and [2010](https://en.wikipedia.org/wiki/Kyrgyz_Revolution_of_2010),
 both of which deposed national leaders. This makes Kyrgyzstan unique amongst
-the Stans, as Kazakhstan, Tajikistan, and Uzbekistan are all still led by the
+the Stans, as Kazakhstan, Tajikistan, and Uzbekistan are all still led by their
 original post-Soviet leader, and Turkmenistan was as well until
 [Niyazov](https://en.wikipedia.org/wiki/Saparmurat_Niyazov)
 passed away in 2006.
 
 We also stopped by one of the city's bazaars, where it seems that anything
-can be purchased, from toilet paper to horse sausuges. Here are some colorful
+can be purchased, from toilet paper to horse sausages. Here are some colorful
 carpets:
 
 ![](https://dl.dropboxusercontent.com/s/sihqhoh30x4jrn1/P6070059.JPG?dl=0)
 
-And the old women manning various food stalls:
+And old women manning various food stalls:
 
 ![](https://dl.dropboxusercontent.com/s/qtss62lu21vuik8/P6070063.JPG?dl=0)
 
@@ -101,7 +101,7 @@ we passed many men on horseback herding livestock, as well as people erecting
 yurts. Not exactly sure how similar this was to "traditional" Kyrgyz life, but
 this was probably the cloest we got to it. Unfortunately, the road to the three
 alpine lakes was probably the longest and bumpiest I've done in a decade.
-Frankly while the lakes were beautiful, it was probably not worth the extra
+Frankly, while the lakes were beautiful, it was probably not worth the extra
 distance up the gorge. And of course, it began to rain right around when we
 reached the lakes. This made the couple tiny streams we had driven through
 a bit more harrowing on the way back. Again, Slava seemed unfazed and did an
@@ -130,8 +130,8 @@ especially enjoy international McDonald's. Unfortunately,
 we ended up at what was apparently their corporate office instead of a
 food-serving location. We were told that real establishments had sadly not
 yet arrived. So instead, we went to this somewhat
-swanky place for dinner, and managed to run out of local currency, which
-was quite embarassing. The meal was even quite affordable by American standards:
+swanky place for dinner, and embarassingly managed to run out of local currency
+The meal was even quite affordable by American standards:
 around $10 each. But given that all our other meals had been less than half that,
 it somehow seemed crazy expensive. After a brief panic, Zakir found some extra
 Kazakh money, and we were able to pay him back by going to exchange our
@@ -139,6 +139,6 @@ extra Kyrgyz currency.
 
 The next morning, we said goodbye to Zakir and Slava, and left Almaty
 airport toward Dushanbe, Tajikistan! Here's a picture of the four of us
-together, many thanks to the both of them:
+together, many thanks to the both of them for a wonderful couple of days.
 
 ![](https://dl.dropboxusercontent.com/s/l80id8tt0uke53h/P6090002.JPG?dl=0)

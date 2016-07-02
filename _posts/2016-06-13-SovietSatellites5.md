@@ -19,8 +19,8 @@ surprisingly relaxed passport control before meeting our guides for the day,
 Parvina and Faridun. In addition to guiding, they both worked as teachers of
 English and Chemistry, respectively. Parvina was especially interesting in that
 she called attention to herself being a "modern Muslim woman," having gone to
-college and also been divorced, both incredibly rare in this traditional
-country in which many marriages are still arranged.
+college and also been divorced. These are both incredibly rare in this
+traditional country in which many marriages are still arranged.
 
 After making peace with the heat, we walked around the downtown area
 for a bit, seeing first a statue of their national hero,
@@ -34,7 +34,7 @@ Next was a
 formerly the tallest
 in the world (it has since been surpassed by one in Saudi Arabia). The thing
 really is massive, being nearly as tall as the Washington Monument. It flies
-a flag that weights *1540 pounds*.
+a flag that weights *1540 pounds*!
 
 We then went to the National Museum of Antiquities, where we were given a tour
 by a local guide about the various relics left behind by the waves of
@@ -63,7 +63,7 @@ our museum guide while in university:
 Next was Hissar fortress, located a short drive away from the city.
 This was frankly underwhelming, as the visible buildings are largely
 new reproductions. In addition, there was a small museum, where 
-a very enthusiastic guide told us how Tajikistan is 93\% mountains (probably the
+a very enthusiastic guide told us how Tajikistan is 93% mountains (probably the
 fourth time I'd heard this today) and showed us more stone age tools.
 I was...not particularly enthused by this presentation.
 
@@ -76,11 +76,12 @@ perhaps next time?
 ### Onwards to Khujand
 
 The next day, we set out with Faridun for Tajikistan's second largest city,
-[Khujand](https://en.wikipedia.org/wiki/Khujand)
+[Khujand](https://en.wikipedia.org/wiki/Khujand),
 which is located in the North.
 Along the way, we drove through several newly built tunnels, which
 unsurprisingly greatly shortened the driving distance. They were also a great
-example of foreign industry, as all of them seemed to have been dug by either
+example of foreign investment and industry,
+as all of them seemed to have been dug by either
 Chinese or Iranian companies. Here's a shot of our car in the mountains, an
 [Opel](https://en.wikipedia.org/wiki/Opel). It's a German brand owned by GM
 that seems to have majority of the market in Tajikistan:
@@ -151,7 +152,7 @@ by ourselves, this was not particular reassuring...
 
 After lunch we bid farewell to our guides. I don't often travel with guides,
 but my experience in Tajikistan showed me how much of a difference they can
-make. Of the three countires so far, Aaron and I definitely liked Tajikistan
+make. Of the three countries so far, Aaron and I definitely liked Tajikistan
 the most, and I think that is in large part to the interesting conversations
 we had with our local guides. I would not hesitate to recommend
 [Faridun](https://www.facebook.com/profile.php?id=100003203084678),
