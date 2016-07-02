@@ -38,11 +38,7 @@ We were a bit worried about the border, having heard many stories of
 travelers being detained and asked for bribes. As a precaution, we wrote down
 a bunch of phrases in Russian such as "No bribes!" as well as the
 anti-bribery hotline. Apparently these had been useful for travelers in the
-past:
-
-![](XX)
-
-Thankfully, the border going in was no problem, and we were handed
+past. Thankfully, the border going in was no problem, and we were handed
 the all important migration card without having to ask for it.
 We were even shepherded through by our bus driver who, although not an
 English-speaker, realized that two American tourists might put him behind
@@ -89,7 +85,7 @@ line with other post-Soviet cities. The Soviets did like their World War II
 monuments. Pardon me, Great Patriotic War monuments. Of course, there are
 also more light-hearted structures, including this "I <3 Tiraspol" sign:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/r4gz41hxex5i3k7/P6210023.JPG?dl=0)
 
 The only really exceptionally jarring thing was the country's poor economic
 health. Our guide described how as a secondary school English teacher she would
@@ -124,7 +120,7 @@ no future scenarios being both desirable and feasible.
 
 On a happier note, here's a selfie we took with Sasha:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/d963ob15vdb17bb/IMG_20160621_151749.jpg?dl=0)
 
 ### Exiting Transnistria
 

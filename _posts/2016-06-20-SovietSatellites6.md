@@ -107,7 +107,7 @@ a madrasa with four minarets that also graces the cover of the
 [Lonely Planet Central Asia guidebook](https://www.amazon.com/Lonely-Planet-Central-Travel-Guide/dp/1741799538).
 Every traveler we came across in the Stans seemed to have this book.
 
-![](0035)
+![](https://dl.dropboxusercontent.com/s/5tzmhbnkosaoqpe/P6160035.JPG?dl=0)
 
 While in the area, we also saw the Emir's Summer Palace and the mausoleum
 of Isma'il Somoni, Tajikistan's national hero. This is slightly awkward,
@@ -116,8 +116,6 @@ early 20th century.
 As such, many parts of Uzbekistan have substantial, or even majority
 Tajik populations. And of course, Uzbekistan has Timur to be their
 national hero.
-
-XX WELL OF JOB.
 
 ### Ayazkala: Yurt Stay!
 
