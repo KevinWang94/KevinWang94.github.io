@@ -107,7 +107,8 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/janestreet.jpg"
     date: "Winter '14, Summer '15, Aug '16 - Present"
-    description: "Jane Street Capital: Software Developer
+    description: "Jane Street Capital: Software Developer"
+
   - image: "/img/timeline/harvard.png"
     date: "Sept '12 - May '16"
     description: "Harvard University: A.B. and S.M. in CS"
