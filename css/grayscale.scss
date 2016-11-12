@@ -282,8 +282,8 @@ a {
     ul,
     ol {
         text-align: left;
-        -webkit-match-parent
         list-style-position: outside;
+        -webkit-match-parent;
     }
 }
 
