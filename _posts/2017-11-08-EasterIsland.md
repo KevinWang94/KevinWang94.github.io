@@ -17,7 +17,7 @@ Easter Island is one of the most remote places that one can go in the world, and
 the inhabited island furthest away from any other inhabited place
 (see [here](https://en.wikipedia.org/wiki/Extreme_points_of_Earth#Remoteness) for excruciating detail).
 Only 64 squares miles, it's over 2000 miles west of South America, and 1400 miles from the nearest
-habitable island (Pitcairn Island, also one of the world's most remote places). It gets its name
+habitable island (Pitcairn Island, itself one of the world's most remote places). It gets its name
 from its European discovery on April 5, 1722 (Easter). And it's of course
 famous as the site of the mysterious [moai](https://en.wikipedia.org/wiki/Moai),
 huge statues carved out of rock by the island's native Polynesian people. 
@@ -27,24 +27,26 @@ It first appeared on my travel radar after reading the book
 by Jared Diamond (the author of [Guns, Germs, and Steel](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel)).
 As you've probably guessed, Easter Island is one of the historical collapses he discusses.
 In his telling, it's classic story of environmental exploitation and perhaps human hubris.
-On this isolated island in the middle of the Pacific, the people cleared the trees,
-over-hunted the birds, over-fished the porpoises, etc. All the while, they were expending
-massive effort in the construction of these fabulous stone statues, with chiefs seeking
-to outdo one another (see [here](http://discovermagazine.com/1995/aug/eastersend543) for a summary
-of this account).
+On this isolated island in the middle of the Pacific, the people cleared the trees, harpooned
+the porpoises, and over-hunted the birds. And at the same time, they were expending
+massive effort in the construction of these fabulous stone statues, with individual chiefs constantly seeking
+to outdo one another (see [here](http://discovermagazine.com/1995/aug/eastersend543) for a version
+of this fascinating account).
 
 I'll shamelessly steal here from a National Geographic tour guide that I overheard.
-There seems to be this popular conception that "native" socieities, e.g.
+There seems to be this popular conception that "native" societies, e.g.
 Native Americans and Polynesians, were somehow more "in tune" and
 respectiful of nature. But, evidence often suggests the contrary.
 Older civilizations and peoples often faced the same incentives and trade-offs that we do:
 societal progress at the expense of the environment. And unsurprisingly,
 many of them made the same choices that our society has, by and large: exploiting the environemnt. 
 The fact that they co-existed more peacefully with nature may not necessarily be a testament to their
-great attempts at sustainability, but rather the inadequacy of their technology.
-(As an aside, the
+great attempts at sustainability, but rather the inadequacy of their technology. And as
+Jared Diamond claims, sometimes they really were able to cause irreversible environmental
+damage, much to their own detrimnent.
+As an aside, the
 [National Geographic Around the World Jet Tour](http://www.nationalgeographicexpeditions.com/expeditions/around-the-world-jet-tour/detail)
-is ridiculous in a sort of awesome way).
+is ridiculous in a sort of awesome way.
 
 Finally, I should note that this account is somewhat in dispute, with recent scholarship
 suggesting that the islanders may not be to blame for, e.g., the deforestation of the island.
