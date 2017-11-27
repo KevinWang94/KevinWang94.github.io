@@ -13,13 +13,14 @@ I'd had the foresight to move my seat to the back of the plane before boarding,
 and was rewarded with an empty seat next to me. So for the first time in my life,
 I managed to sleep more than three hours on a red-eye, score!
 
-For my first day, I first went to just wander around the downtown area, where I was most
+I first went to just wander around the downtown area, where I was most
 surprised by the almost total lack of tourists. It was quite strange to be in the downtown of a
 major international city, and basically hear no English being spoken. I'd known beforehand
 that Santiago wasn't exactly a must-see tourist destination, but I was still surprised at
 the distinct lack of (obvious) foreigners. In general, I had more language difficulties
-in South America than almost anywhere else I'd been. It was great to see that the
-"repeat yourself louder and slower" behavior is universal.
+in South America than almost anywhere else I'd been. Perhaps because almost the entire
+region speaks Spanish, fewer people learn another language? (cf. Europe). 
+It was great to see that the "repeat yourself louder and slower" behavior is universal.
 
 After lunch, I decided to hit up some museums before Lucy's arrival the next day.
 First stop was the [Chilean Museum of Pre-Columbian Art](http://www.precolombino.cl/en/).
