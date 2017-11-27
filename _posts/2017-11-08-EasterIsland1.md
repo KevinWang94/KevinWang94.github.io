@@ -9,7 +9,7 @@ tags: [ 'EasterIsland' ]
 Managed to save up enough vacation days to go traveling again! These blog posts document
 my trip to South America in late October / early November of 2017.
 It was mostly planned around visiting Easter Island, but also included
-stops in Santiago, Buenos Aires, and a brief day trip to Uruguay.
+stops in Santiago (Chile), Buenos Aires (Argentina), and a brief day trip to Uruguay.
 
 ### Background
 
@@ -27,23 +27,23 @@ It first appeared on my travel radar after reading the book
 by Jared Diamond (the author of [Guns, Germs, and Steel](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel)).
 As you've probably guessed, Easter Island is one of the historical collapses he discusses.
 In his telling, it's classic story of environmental exploitation and perhaps human hubris.
-On this isolated island in the middle of the Pacific, the people cleared the trees, harpooned
-the porpoises, and over-hunted the birds. And at the same time, they were expending
+On this isolated island, the people cleared the trees, harpooned
+the porpoises, and over-hunted the birds. And all while expending
 massive effort in the construction of these fabulous stone statues, with individual chiefs constantly seeking
 to outdo one another (see [here](http://discovermagazine.com/1995/aug/eastersend543) for a version
 of this fascinating account).
 
 I'll shamelessly steal here from a National Geographic tour guide that I overheard.
 There seems to be this popular conception that "native" societies, e.g.
-Native Americans and Polynesians, were somehow more "in tune" and
+Native Americans or Polynesians, were somehow more "in tune" and
 respectiful of nature. But, evidence often suggests the contrary.
-Older civilizations and peoples often faced the same incentives and trade-offs that we do:
+Older civilizations and peoples probably faced the same incentives and trade-offs that we do:
 societal progress at the expense of the environment. And unsurprisingly,
-many of them made the same choices that our society has, by and large: exploiting the environemnt. 
+many of them made the same choices that our society has, by and large: exploiting the environment. 
 The fact that they co-existed more peacefully with nature may not necessarily be a testament to their
 great attempts at sustainability, but rather the inadequacy of their technology. And as
 Jared Diamond claims, sometimes they really were able to cause irreversible environmental
-damage, much to their own detrimnent.
+damage, much to their own detriment.
 As an aside, the
 [National Geographic Around the World Jet Tour](http://www.nationalgeographicexpeditions.com/expeditions/around-the-world-jet-tour/detail)
 is ridiculous in a sort of awesome way.
