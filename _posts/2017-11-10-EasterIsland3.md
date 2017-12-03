@@ -45,3 +45,17 @@ We then had just enough time for dinner before catching the sunset. As I mention
 can be very expensive, so eating it is a tricky affair. But we'd vowed to only have peanut butter
 once a day, so we walked around in search of a reasonably priced restaurant. 
 
+### Day 4: Easter Island
+
+Tour
+-Quarry
+-Ahu Tanaka
+-Beach
+
+
+### Day 5:
+
+
+### Day 6:
+
+Check-out, back to Chile, the worst experience w/ Uber in my life.
