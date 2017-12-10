@@ -69,6 +69,48 @@ This was our last day, as we flew out on Sunday evening red-eyes (so I could be 
 Monday morning, yay!). Between our general exhaustion and my awful sunburn, we took
 this day pretty easy.
 
+Our first stop was the
+[El Ateneo Grand Splendid Bookstore](https://en.wikipedia.org/wiki/El_Ateneo_Grand_Splendid),
+rated by [The Guardian](https://www.theguardian.com/books/2008/jan/11/bestukbookshops)
+as the second best bookstore in the world (yes, I was surprised that this list existed too).
+The building was originally built as a theater in the early 20th century, and converted
+into a ookstore in 2000 while keeping all the beautiful old details intact:
+
+![](XX)
+
+We also happened to run into a huge Chinese tour group while here, evidently Buenos Aires
+is more popular than Santiago! 
+
+Next up, we tried to take part in the local tradition of
+[drinking mate](https://en.wikipedia.org/wiki/Mate_(drink)),
+a caffeinated bitter beverage consumed out of a distinctive hollowed gourd.
+See [here](https://www.nytimes.com/2017/12/02/opinion/sunday/argentina-yerba-mate-message.html)
+for how it recently became a political flashpoint. Luckily for tourists like us,
+one can frequent a "mate bar" to consume the beverage, instead of buying all the necessary
+supplies. Unfortunately, the few that we went to seemed to only serve mate from 4 to 7PM,
+which was a bit late given our flight, so no mate for us. Oh well, hopefully I'll get some
+the next time I'm in South America.
+
+Our final stop was La Boca, a working class neighborhood in Buenos Aires that has a distinctive
+but small area of brightly painted buildilngs (Caminito). Apparently, this multi-colored painting
+was originally because the area's inhabitants built their houses from castaway sheetmetal painted
+with castaway paint. In the 50s, an artist had the idea to do this with bright colors in order
+to revive the area, and so the this beautiful tourist trap was born:
+
+![](XX)
+
+See [here](http://www.slightlyastray.com/behind-la-bocas-colorful-houses/) for a good article
+with more historical and contemporary details. Of all the places we went this whole trip,
+I think this was by far the most touristy. Which is not to say it wasn't beautiful, just crowded
+with tour groups and souvenir shops and... Finally, a pro-tip: don't just Uber to "La Boca."
+It'll take you to the center of this working class neighborhood, not the brightly colored
+Caminito. Thankfully it was during the day so this wasn't a bit problem, but our driver's
+confusion made sense in hindsight.
+
+From here, it was back to the hostel and then the airport, for a direct flight to NYC.
+My flight luck continued, as I again had a free seat next to me, and they even bumped
+me up to economy premium! Sadly, the flight landed one hour early, which when it's 5:30
+instead of 6:30, is not a good thing. Anyway, that wraps up this trip. 
 I had a wonderful time in South America, and hope to back soon for the continent's other 
 beautiful places like the 
 [Salar de Uyuni](https://en.wikipedia.org/wiki/Salar_de_Uyuni).
