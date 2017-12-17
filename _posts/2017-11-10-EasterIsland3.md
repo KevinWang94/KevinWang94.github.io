@@ -35,21 +35,23 @@ rental cars on the island are extremely plentiful. In addition to two main renta
 every single business seems to also rent out the one or two cars their owners possess.
 Unfortunately, neither of us are able to drive stick, so we ended up with a rather expensive
 [Suzuki Grand Nomade](https://en.wikipedia.org/wiki/Suzuki_Vitara)
-from one of big rental agencies. Note that there's no car insurance on the island, but luckily
+from one of the big rental agencies. Note that there's no car insurance on the island, but luckily
 our Visa credit card benefit covered us (the same benefit that paid for the disastrous Iceland
-car debacle). We also arranged for a tour for the next day which would hopefully
-give us a useful overview and history.
+car 
+[debacle]({{ "/travel/2016/01/01/Iceland6.html" | prepend: site.baseurl }})). 
+We also arranged for a tour for the next day which would hopefully give us a useful overview and history.
 
 We then embarked on a hike of 
 [Rano Kau](https://en.wikipedia.org/wiki/Rano_Kau), 
 one of the three volcanic eruptions that formed Easter island.
-It was more of a real hike than we'd anticipated, but we did manage to make it up to the crater: 
+It was more of a real hike than we'd anticipated, but we did manage to make it up to the crater
 
 ![](XX)
 
 which was quite beautiful. We then had just enough time for dinner before catching the sunset. 
 As I mentioned, Easter Island can be very expensive, so eating out for cheap is a tricky affair. 
-But we'd vowed to only have peanut butter once a day, so we walked around in search of a reasonably priced restaurant. 
+But we'd vowed to only have peanut butter-based meals once a day, 
+so we walked around in search of a reasonably priced restaurant. 
 We ended up at a simple-looking place on the main street, where we each ordered an empanada as well
 as a seafood entree. Our waitress seemed a bit perplexed by our order, but her English was only slightly
 better than our non-existant Spanish so we weren't sure why. It became clear when the empanadas showed
@@ -88,7 +90,7 @@ but included lunch as well as an English guide. While I don't regret it, in hind
 I'm not sure how much value it added over just wandering around the island ourselves,
 given that we already knew the history highlights.
 If you're able to get a cheaper car rental, or have a group of more than two people,
-I'd probably suggest skipping a tour.
+I'd suggest skipping a tour.
 
 We started the day off at
 [Rano Raraku](https://en.wikipedia.org/wiki/Rano_Raraku), the quarry where the moai
