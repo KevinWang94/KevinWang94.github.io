@@ -7,7 +7,7 @@ tags: [ 'EasterIsland' ]
 ---
 
 Managed to save up enough vacation days to go traveling again! These blog posts document
-my trip to South America in late October / early November of 2017.
+my trip to South America in late October / early November of 2017 with Lucy.
 It was mostly planned around visiting Easter Island, but also included
 stops in Santiago (Chile), Buenos Aires (Argentina), and a brief day trip to Uruguay.
 
