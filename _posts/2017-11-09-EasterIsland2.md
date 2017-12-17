@@ -51,9 +51,9 @@ to the West Village or Williamsburg: previously an area for artists, but now inc
 gentrified/touristy. The [Patio Bellavista](http://patiobellavista.cl/) was especially so.
 It had a bit of manufactured feeling, with every bar/restaurant consciously
 cool. Each had a hip name and interestingly designed menu and outdoor seating area. My favorite
-was the Monatana Bar!
+was the Montana Bar!
 
-![](X)
+![](XX)
 
 ### Day 2: Santiago
 
