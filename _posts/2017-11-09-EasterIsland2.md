@@ -9,7 +9,7 @@ tags: [ 'EasterIsland' ]
 ### Day 1: Arrival in Santiago
 
 I arrived in Santiago, Chile via a red-eye from Houston. It wasn't so bad though, as
-I'd had the foresight to move my seat to the back of the plane before boarding,
+I'd had the foresight to move my seat assignment to the back of the plane before boarding,
 and was rewarded with an empty seat next to me. So for the first time in my life,
 I managed to sleep more than three hours on a red-eye, score!
 
@@ -32,8 +32,9 @@ Thankfully, the next museum was more up my alley, the
 As I've said [before]({{ "/travel/2016/01/20/TravelPhilosophy.html" | prepend: site.baseurl }}),
 I try to make an effort to learn a little bit about the history of country's I visit, so
 I'd read [*A Nation of Enemies*](https://www.goodreads.com/book/show/98416.A_Nation_of_Enemies)
-about the Pinochet dictatorship. But the museum was still incredibly informative and interesting.
-I think it's always fascinating to see how nations and peoples reckon with their past,
+about the Pinochet dictatorship. But the museum was still added a lot, especially because
+I didn't think the book was particularly good.
+It's always fascinating to see how nations and peoples reckon with their past,
 especially in cases such as this one where that past is both very recent and very dark.
 If you're ever visiting the museum, I especially recommend stopping by the multimedia presentation
 for the [1989 Plebiscite](https://en.wikipedia.org/wiki/Chilean_national_plebiscite,_1988) which
@@ -52,7 +53,7 @@ It had a bit of manufactured feeling, with every bar/restaurant consciously
 cool. Each had a hip name and interestingly designed menu and outdoor seating area. My favorite
 was the Monatana Bar!
 
-![](X))
+![](X)
 
 ### Day 2: Santiago
 
@@ -99,8 +100,8 @@ with another explanation, but it's hard not to read into this in a gendered way?
 
 Before heading back, we stopped by the grocery store for some snacks for Easter Island.
 Food on the island is (understandably) incredibly pricey, so we'd be told to stock up
-with snacks beforehand. So, rice cakes and peanut butter it was! A wonderful throwback
-to traveling across Europe. We weren't able to buy any jam, because it's mysteriously
+with snacks beforehand. Yay for rice cakes and peanut butter, a wonderful throwback
+to traveling across Europe. Sadly we weren't able to buy any jam, because it's mysteriously
 sold in bags?
 
 ![](XX)
