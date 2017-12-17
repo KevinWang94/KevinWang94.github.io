@@ -13,6 +13,7 @@ stops in Santiago (Chile), Buenos Aires (Argentina), and a brief day trip to Uru
 
 ### Background
 
+(Mostly historical context, skip to the next post for actual start of actual travel blog).
 Easter Island is one of the most remote places that one can go in the world, and arguably
 the inhabited island furthest away from any other inhabited place
 (see [here](https://en.wikipedia.org/wiki/Extreme_points_of_Earth#Remoteness) for excruciating detail).
@@ -26,7 +27,7 @@ It first appeared on my travel radar after reading the book
 [Collapse](https://www.goodreads.com/book/show/475.Collapse)
 by Jared Diamond (the author of [Guns, Germs, and Steel](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel)).
 As you've probably guessed, Easter Island is one of the historical collapses he discusses.
-In his telling, it's classic story of environmental exploitation and perhaps human hubris.
+In his telling, it's a classic story of environmental exploitation and perhaps human hubris.
 On this isolated island, the people cleared the trees, harpooned
 the porpoises, and over-hunted the birds. And all while expending
 massive effort in the construction of these fabulous stone statues, with individual chiefs constantly seeking
