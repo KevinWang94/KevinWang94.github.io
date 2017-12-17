@@ -15,7 +15,7 @@ this bus journey instead of directly flying? Well, the ride through the Andes
 is supposed to be absolutely beautiful.
 [This blogger](http://weekendblitz.com/bus-ride-andes-santiago-mendoza/)
 described it as "one of the most memorable parts of our trip and...a day of sites that were postcard-worthy."
-So we made sure to bus our tickets on the first day they became available,
+So we made sure to buy our tickets on the first day they became available,
 securing the top two seats on the upper level.
 
 The bus station itself was less chaotic than we feared, given what we'd
@@ -38,7 +38,7 @@ we would be okay?
 
 The first hour or two of the ride was pretty uneventful, just getting to the Andes themselves.
 So unsurprisingly we both fell asleep. 
-But at some point, I awoke and observed us pulled off the highway and parked on the
+But at some point, I awoke and observed us pull off the highway and park on the
 side of some random road. I was a bit perplexed, had our bus broken down in some way?
 But soon I noticed many other large buses doing the same exact thing. After quite a long
 period of confusion (it didn't seem like there were even announcements in Spanish), we
@@ -48,7 +48,7 @@ was temporarily closed due to bad weather. As this was November in Chile (the eq
 May in the Northern Hempishere), I was a bit surprised. At some point, the driver contemplated
 turning back, but the bus collectively loudly opposed this, so we continued to sit and wait.
 We ended up waiting for about two hours overall, by the end of which I was hoping we would turn
-back. Had we continued at that point, we would've missed our flight (one of the last out
+back. Had we continued at that point, we would've missed our onward flight (one of the last out
 of Mendoza) and been stranded for the evening without accomodation. 
 Thankfully, the bus drivers seemed to all decide
 at once to turn back, so we headed on back to Santiago. On the journey back, I attempted
