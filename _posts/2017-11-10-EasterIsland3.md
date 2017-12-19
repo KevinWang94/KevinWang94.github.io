@@ -115,7 +115,7 @@ and matching backpacks, listening to their mic'd guide explain the history. But 
 I guess you'd expect nothing less.
 
 The next stop was
-[Ahu Tongariki](https://en.wikipedia.org/wiki/Ahu_Tongariki)
+[Ahu Tongariki](https://en.wikipedia.org/wiki/Ahu_Tongariki),
 the largest ahu on the island, with 15 moai. This was the most impressive sight on the island
 in my opinion, given its scale:
 
@@ -123,7 +123,10 @@ in my opinion, given its scale:
 
 We even took one cheesy tourist photo!
 
-![](XX)
+![](XX
+
+We were planning to return the next morning for sunrise here, but it was cool to see it during normal
+daylight conditions.
 
 We then made our way to the
 [Navel of the world](https://www.atlasobscura.com/places/the-navel-of-the-world),
@@ -131,10 +134,18 @@ a smooth stone believed to have some sort of magical powers. It was...a smooth s
 
 ![](XX)
 
+One of the funniest parts about visiting these sites were the signs asking us not to touch the statues:
+
+![](XX)
+
+or this one asking us not to stomp on them
+
+![](XX)
+
 Our final stop on the tour was 
 [Anakena Beach](https://imaginaisladepascua.com/en/easter-island-sightseeing/easter-island-beaches/anakena/)
 on the north side of the island. It's said to be where King Hotu Matu'a first landed upon 
-his arrival on the island. We relaxed here for about an hour, dipping our toes into the ocean. 
+his arrival. We relaxed here for about an hour, dipping our toes into the ocean. 
 This is also where
 [Ahu Nau Nau](https://imaginaisladepascua.com/en/easter-island-sightseeing/easter-island-archaeology/ahu-nau-nau/).
 is, notable because of moai's red [pukaos](https://en.wikipedia.org/wiki/Pukao). Not satisfied with just creating
@@ -143,16 +154,28 @@ and placed them on top of the statues:
 
 ![](XX)
 
-From here it was back to Hanga Roa, where we picked up our rental car. We were going to
-[Ana Kakenga](XX)
-
-this cave 
+From here it was back to Hanga Roa, where we picked up our sturdy rental car. We were going to
+[Ana Kakenga](https://imaginaisladepascua.com/en/easter-island-sightseeing/easter-island-caves/ana-kakenga/),
+a lava tube cave accessible via a small hole in the ground, which after some crouched walking, opens
+up into a central area with two openings to the sea, through which the view is incredible:
 
 ![](http://imaginaisladepascua.com/wp-content/uploads/2013/08/Ana-Kakenga-Murray-cueva-de-las-dos-ventanas-isla-de-pascua-Foote.jpg)
 
 Unfortunately, we hadn't been able to properly do our research about how to get there. But, the
 woman at the rental car place had given us pretty clear instructions, as well as a simplified
-map of the Island and its roads. So, we set off for 
+map of the Island and its roads. So, we set off for the cave, knowing we'd need to walk the last
+little bit. But of course, the driving instructions given to us were just plain wrong. As far as I could tell,
+and I did more digging later with better internet, the road she told us to take dead-ended nowhere close
+to the cave. Regardless, we were a bit perplexed when the road turned from paved to dirt, and then got
+quite a bit sadder when our car got stuck in some pretty deep mud. But it's alright, because we were driving the 
+*Suzuki Grand Nomade* right? Sadly, turns out the car doesn't really live up to its name, missing, e.g., 4WD or 
+AWD. So, we spent the next hour inserting broken branches and our floor mats under the stuck wheels, mostly
+without success. With almost no cell reception and fading daylight, we were getting pretty panicked. But just at the
+one hour mark, we managed to get it unstuck, and headed back to town, unsurprisingly a bit muddy. 
+Advice to anyone reading this blog, don't
+ever travel somewhere with me that requires renting a car, I'm 2/2 on getting them stuck in snow/mud.
+Also, don't trust directions given to you by rental car employees, even if the island seems so small that it would
+be impossible to get lost.
 
 ### Day 5:
 
