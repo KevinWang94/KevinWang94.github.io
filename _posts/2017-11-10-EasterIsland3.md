@@ -177,7 +177,10 @@ ever travel somewhere with me that requires renting a car, I'm 2/2 on getting th
 Also, don't trust directions given to you by rental car employees, even if the island seems so small that it would
 be impossible to get lost.
 
-### Day 5:
+### Day 5: Redemption
+
+We started bright and early this day, setting out to see the sunrise at the previously visited Ahu Tongariki.
+We got pretty lucky 
 
 
 ### Day 6: Leaving the Island
