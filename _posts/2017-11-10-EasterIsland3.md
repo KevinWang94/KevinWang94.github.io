@@ -173,15 +173,41 @@ AWD. So, we spent the next hour inserting broken branches and our floor mats und
 without success. With almost no cell reception and fading daylight, we were getting pretty panicked. But just at the
 one hour mark, we managed to get it unstuck, and headed back to town, unsurprisingly a bit muddy. 
 Advice to anyone reading this blog, don't
-ever travel somewhere with me that requires renting a car, I'm 2/2 on getting them stuck in snow/mud.
+ever travel somewhere with me that requires renting a car, I'm two for two on getting them stuck in snow/mud.
 Also, don't trust directions given to you by rental car employees, even if the island seems so small that it would
 be impossible to get lost.
 
 ### Day 5: Redemption
 
-We started bright and early this day, setting out to see the sunrise at the previously visited Ahu Tongariki.
-We got pretty lucky 
+We started bright and early this day, setting out to see the sunrise at the previously visited Ahu Tongariki (can you
+tell Lucy's into photography?). Anyway, we got a pretty good sunrise which was nice:
 
+(again, photo by Lucy). We also ran into the NatGeo people again, or at least a subset of them. There
+seemed to be a designated photography pro traveling with them, which I guess is unsurprising.
+Perhaps he used to work for the magazine, and is now raking in the dough as a luxury photography guide.
+Seems like a pretty cool life. What was less cool was his constant narrative, calling out his
+f-stops and white balances and...oh well.
+
+After sunrise, we drove to the preserved ceremonial village of 
+[Orongo](https://imaginaisladepascua.com/en/easter-island-sightseeing/easter-island-archaeology/orongo/).
+We hadn't quite made it here on our first day, as it's on the far side of Rano Kau's rim.
+Our guide had mentioned that Orongo was a *must see*, so we dutifully drove
+up there and walked through the archeological village. It's definitely interesting from a historical perspective,
+as it represents the new belief system adopted by the islanders as the resources on the island became
+more scarce. They apparently lost faith in their traditional chiefs and the moai, instead believing
+in the "birdman cult." As described [here](https://www.zegrahm.com/blog/birth-easter-islands-birdman-cult):
+
+> Between warring clans and diminished resources, Rapa Nui’s population plummeted. One of the last
+> remaining sources of sustenance were seabirds and their eggs, and the creatures’ ability to fly 
+> and fish earned the islanders’ reverence. A religion arose, and numerous festivities were held 
+> in Orongo, which dramatically sits on a narrow ridge along the island’s southern tip. 
+> The most noted event was a competition that pitted young champions from each clan, who plunged off
+> Orongo’s 1,000-foot cliffs and swam through shark-infested Pacific waters to Motu Nui, a small 
+> island about a mile away. After returning with the egg of a sooty tern, the winner was crowned 
+> “Tangata Manu” (“Bird-Man”) and made leader for the year.
+
+But I'm not sure visiting the village itself adds much to this historical knowledge, other than
+making clear how difficult this journey would've been for the young men competing.
 
 ### Day 6: Leaving the Island
 
