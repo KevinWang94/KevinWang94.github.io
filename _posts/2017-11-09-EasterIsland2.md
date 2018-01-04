@@ -53,7 +53,7 @@ It had a bit of manufactured feeling, with every bar/restaurant consciously
 cool. Each had a hip name and interestingly designed menu and outdoor seating area. My favorite
 was the Montana Bar!
 
-![](XX)
+![](https://lh3.googleusercontent.com/wBtaBZPVjP7V86ogyylOFU5In7MYwWqufhftKsVcvPkEXQ7hXJ90h2CopDcEeom3-uKwY0FXy-0avJF0B_nFAZKf87tfz9tgsxp0p8XfIpahovJTzwEFfwgozzOrB7VHDlX-qzP88w)
 
 ### Day 2: Santiago
 
@@ -63,7 +63,7 @@ on the same flight), and we had a pretty lazy day in Santiago. We started at the
 a local fish market with a lot of little restaurants inside. I was expecting something pretty touristy,
 but actually the fish-market side seemed to be frequented by actual locals. It certainly was very chaotic/messy/smelly:
 
-![](XX)
+![](https://lh3.googleusercontent.com/ADBmAFOiBFKppU7uPMOGFNlsyAqWIW2b0QJnAlyQnwW-zD4MnchgEpc2sLSIMtrc2aKGrJQ761VZOY79F-FEweB6C0gft3iDqM44Bi9Auz13Nb_xy72575brDUdIY4r3t2x6BdR6Qg)
 
 The restaurants toward the center are another story, the typical tourist-harassing restaurants.
 At the recommendation of [this blogger](https://www.authenticfoodquest.com/discovering-chilean-seafood-at-the-mercado-central/)
