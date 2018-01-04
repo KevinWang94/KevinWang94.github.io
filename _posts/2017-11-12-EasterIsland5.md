@@ -80,7 +80,7 @@ as the second best bookstore in the world (yes, I was surprised that this list e
 The building was originally built as a theater in the early 20th century, and converted
 into a ookstore in 2000 while keeping all the beautiful old details intact:
 
-![](https://lh3.googleusercontent.com/uDPQKZxMnvHt015m-LIFHb5cMr7ROHQ5yfC1S_tmJ0uO4Jy4Ny-uN8knJcM7NVuRImrNIVExcK7NkHnxX48EdPa5J2QCbS7n8VKhh0W9s_IgbYGK3HkNtcpaRocEZw2QKWfBVEa8fw)
+![](https://lh3.googleusercontent.com/YIDN47d6WttAcLkq_sgzeGL1AjTJj_NahM5wiF8ryUWmhNmTaltiM_Nb5CSd4l0YsjnJllJu2rMJztwTIBtjL6VPem3Og-vaKRdTGHeR8CiiWvlB-jBcNZBqYQGbWU50Sizcu7XqIA)
 
 We also happened to run into a huge Chinese tour group while here, evidently Buenos Aires
 is more popular than Santiago! 
