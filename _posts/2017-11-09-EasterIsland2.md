@@ -110,7 +110,7 @@ We also learned that Chileans absolutely love mayo. Or at least, that's the only
 I can draw from two whole racks devoted to the stuff, in a not particularly large grocery
 store:
 
-![](https://lh3.googleusercontent.com/bdks3LZ4F-XqKmprVJzaZeRCCk4T1eDWQuAaWA_qMRis2-WaB7au9FyKvnyRLCMt2wbAzF7AMX4o-ylYYps1yiSLxfYFJ52aYtG6GP0wHZB66plI7QyQzPuTL9wYIi5f6Z6bdpTEIw)
+![](https://lh3.googleusercontent.com/hq7yorJNgqu-AzEhP4xQ55PRNXVPjfjCNiG5RnJvQA5C1CPJoCqk3jmV83zwFVrBAllI-cnAnfsrkcixNUH32-6zbmJRAuFXMIX1xQFUzlu_nF6h0JROh5UK_k0hXP2lUMLSbTwlNQ)
 
 And of course, it's also available in bags, even those the size of my head!
 
