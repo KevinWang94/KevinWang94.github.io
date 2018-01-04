@@ -176,6 +176,8 @@ be impossible to get lost...
 We started bright and early this day, setting out to see the sunrise at the previously visited Ahu Tongariki (can you
 tell Lucy's into photography?). Anyway, we got a pretty good sunrise which was nice:
 
+![](https://dl.dropboxusercontent.com/s/8hquqnkyej4md9q/BU7A6453.jpg?dl=0)
+
 (again, photo by Lucy). We also ran into the NatGeo people again, or at least a subset of them. There
 seemed to be a designated photography pro traveling with them, which I guess is unsurprising.
 Perhaps he used to work for the magazine, and is now raking in the dough as a luxury photography guide.
@@ -202,6 +204,11 @@ in the "birdman cult." As described [here](https://www.zegrahm.com/blog/birth-ea
 
 But I'm not sure visiting the village itself adds much to this historical knowledge, other than
 making clear how difficult this journey would've been for the young men competing.
+
+We stopped for lunch at
+[Ahu Akivi](https://en.wikipedia.org/wiki/Ahu_Akivi),
+notable because it's the only ahu where the moai face out to the sea instead of in towards
+the island. 
 
 ### Day 6: Leaving the Island
 
