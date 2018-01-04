@@ -12,7 +12,7 @@ The day we'd been waiting for, onto Easter Island! Unsurprisingly, the flight wa
 long, five hours, which I passed through some combination of sleeping and watching
 Wonder Woman. Be warned that these flights are unfortunately expensive, given the flight's
 duration and lack of competition in this market (only LATAM flies the route). We paid
-over $700 roundtrip, despite bookly decently early. For aviation geeks, Easter Island
+over $700 roundtrip, despite booking decently early. For aviation geeks, Easter Island
 is also notable because there can only be a single inbound flight at any given time
 in the air (see [here](http://onemileatatime.boardingarea.com/2016/05/12/easter-island-flying-restrictions/)
 for more details). Following the map during the flight was a good reminder of how damn
