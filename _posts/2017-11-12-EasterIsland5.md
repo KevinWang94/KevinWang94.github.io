@@ -64,7 +64,7 @@ two of us. And despite massively over-ordering, it was still less $30 / person. 
 recommend this place to anyone visiting Argentina. As we were snapping pictures on our way out,
 they even let me pose with the grill!
 
-![](dl.dropboxusercontent.com/s/e2gt90gccvpnmyw/BU7A6745.jpg?dl=0)
+![](https://dl.dropboxusercontent.com/s/e2gt90gccvpnmyw/BU7A6745.jpg?dl=0)
 
 
 ### Day 9: Argentina
