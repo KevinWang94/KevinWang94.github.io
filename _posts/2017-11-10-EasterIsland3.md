@@ -18,7 +18,7 @@ in the air (see [here](http://onemileatatime.boardingarea.com/2016/05/12/easter-
 for more details). Following the map during the flight was a good reminder of how damn
 isolated the island is:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/sle5z91tssfqjgg/EasterIslandFlight.JPG?dl=0)
 
 Upon arrival, we paid the national park entrance fee, and 
 were greeted by someone from our hostel with a traditional lei, who nicely
