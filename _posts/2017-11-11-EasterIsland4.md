@@ -65,7 +65,7 @@ The flight itself was uneventful, but our upgrade luck had run out, as we ended 
 non-reclining very last row with discount-airline legroom. At least the cabin was covered
 with ads!
 
-![](https://lh3.googleusercontent.com/hq7yorJNgqu-AzEhP4xQ55PRNXVPjfjCNiG5RnJvQA5C1CPJoCqk3jmV83zwFVrBAllI-cnAnfsrkcixNUH32-6zbmJRAuFXMIX1xQFUzlu_nF6h0JROh5UK_k0hXP2lUMLSbTwlNQ)
+![](https://lh3.googleusercontent.com/Tm1TV1OwRe7Gx1PlGxwWgzklbQmkfgpsGEJ6LJvCOJw3m5HNyZ3Kid9ZuwPCEmeqswAU5CCNC8M1HfxEY9m9ESQ-2W45RMccaqmn13sHLyIqK39jUx2nfSCx4g1j8gSRd63wyhxG3w)
 
 But given the flight's duration, it didn't really matter. And we were just thankful to have
 made it to Buenos Aires without any delay (albeit having missed out on our Andes views).
