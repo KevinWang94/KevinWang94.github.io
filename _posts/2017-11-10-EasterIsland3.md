@@ -46,7 +46,7 @@ We then embarked on a hike of
 one of the three volcanic eruptions that formed Easter island.
 It was more of a real hike than we'd anticipated, but we did manage to make it up to the crater
 
-![](XX)
+![](https://www.dropbox.com/s/vinthuns6lbhm1e/BU7A5861.jpg?dl=0)
 
 which was quite beautiful. We then had just enough time for dinner before catching the sunset. 
 As I mentioned, Easter Island can be very expensive, so eating out for cheap is a tricky affair. 
@@ -67,7 +67,7 @@ is one of the stone platforms on which the statues were placed.
 [Ahu Tahai](https://en.wikipedia.org/wiki/Ahu_Tahai) has five moai, and makes for
 a great sunset, as it's on the West side of the island:
 
-![](XX)
+![](https://dl.dropboxusercontent.com/s/6mlz4qg000x4m6t/BU7A5966.jpg?dl=0)
 
 (picture by Lucy - the ones taken on my Pixel weren't nearly as good).
 We then went back to the hostel and tried to nail down our post-tour schedule
@@ -96,11 +96,12 @@ of the quarry that are partially buried in the dirt. Our guide explained that th
 were unsatisfactory in some way, so they weren't transported to ahus, and didn't have
 proper hollowed out eyes. They do however, make for some great photos:
 
-![](XX)
+![](https://lh3.googleusercontent.com/U_D9jCEzbAp4HVP5lZoJvgpV8Rg19TAODw7D6cRcFIX5In3jzonsxttXvsR9v__B_aKwVI2ULDrd5lB7NS2mP6PwgMaHXETXiqFGeRmk4C-dM17atlQbzNtapf2KOCrCqndn98dgfg)
 
-There are even some moai that seem to have fallen/broken during transport:
+There are even some moai that seem to have fallen/broken during transport. Note the sign
+asking us to not stomp on the statue:
 
-![](XX)
+![](https://lh3.googleusercontent.com/0kj9YrNtqBxu1Ea0g39M3WO0RX36NERvbrEtSzjJAhjwnSMIWy_Tmx7Z1odSI6ZtuSEXKL2PhWlEY7iFZEIjZiSu9KNb5HvChgbAY_j1AYKUI1EUmb5cO1vOVT6Vlmn5RpCK5nJjEw)
 
 Seeing the moai in various states of "construction" really drives home
 just how much energy was expended in carving these things out of the rock, not to mention
@@ -116,11 +117,11 @@ The next stop was
 the largest ahu on the island, with 15 moai. This was the most impressive sight on the island
 in my opinion, given its scale:
 
-![](XX)
+![](https://lh3.googleusercontent.com/zb7-Mc3oZxO3NP8tbH45JKi6Pqg2OZpzTjgycWQoPEj0Na-m1pjziq7fz8e_SnotweX2YsXXaJsIT18iQMxm77lm-LhwZgvqzxiDx9Nsxi0h8uQUTllGUBoO2Zn8Hm1A5FkRNIWOsw)
 
 We even took one cheesy tourist photo!
 
-![](XX
+![](https://lh3.googleusercontent.com/ZU8PUkTsn4b60S2dl9HWqDMrn6dphv8vQR1EiNyP9fKAS10z1pYk_nqQB4h7-yEpSrBG-HMnoUiFWtgDyR4fuZvJA9vMvusr50eGLtRyuqAlmw6SRiPoByKyxCpyTpMrOcMg2_wvBg)
 
 We were planning to return the next morning for sunrise here, but it was cool to see it during normal
 daylight conditions.
@@ -129,27 +130,23 @@ We then made our way to the
 [Navel of the world](https://www.atlasobscura.com/places/the-navel-of-the-world),
 a smooth stone believed to have some sort of magical powers. It was...a smooth stone:
 
-![](XX)
-
-One of the funniest parts about visiting these sites were the signs asking us not to touch the statues:
-
-![](XX)
-
-or this one asking us not to stomp on them
-
-![](XX)
+![](https://lh3.googleusercontent.com/7e6JCEwCicUj-E3yAQMsxxV5vNj_DyfKypHJsu7BzfUDjNDWT2LVRuCdOsJGkNCaYbmZgEoqmlBSS6qe-eDLEJcre7qnaEWTdT6W-jf4DUMWImADVjRo0G9flV5aQusEl61Gf0qGCQ)
 
 Our final stop on the tour was 
 [Anakena Beach](https://imaginaisladepascua.com/en/easter-island-sightseeing/easter-island-beaches/anakena/)
 on the north side of the island. It's said to be where King Hotu Matu'a first landed upon 
-his arrival. We relaxed here for about an hour, dipping our toes into the ocean. 
+his arrival. We relaxed here for about an hour, dipping our toes into the ocean. We were also treated to
+another great sign asking us to not touch the statues:
+
+![](https://lh3.googleusercontent.com/ZiaNVLNDGsgBhB4a2XHBmO4ZpoKHbnwmDvaMRkO0-g27ncWGNsNqdzzToh2iLYxN25BgMzL8wC1Ioxkh0f2behzvtzJA6o-eCAlVkG16COHVl1yuAUH1nXrrgpHvob1-qXewLv7qyw)
+
 This is also where
 [Ahu Nau Nau](https://imaginaisladepascua.com/en/easter-island-sightseeing/easter-island-archaeology/ahu-nau-nau/).
 is, notable because of moai's red [pukaos](https://en.wikipedia.org/wiki/Pukao). Not satisfied with just creating
 these immense stone rocks, the Rapa Nui people also carved hats/top-knots out of a red rock
 and placed them on top of the statues:
 
-![](XX)
+![](https://lh3.googleusercontent.com/hTH3XPqugq2YkeWxKQpbPPordZyn7vkCT7KdQLHLE-hS_2Kg6v2KhxMN9_LQXuz4dT49FN7dsX9vIAWTC9HJmN7PfAMwVsGw_69ljJSz6GxozE04JxE2e96ReKoeBmGg35tXNLVyAw)
 
 From here it was back to Hanga Roa, where we picked up our sturdy rental car. We were going to
 [Ana Kakenga](https://imaginaisladepascua.com/en/easter-island-sightseeing/easter-island-caves/ana-kakenga/),
@@ -172,7 +169,7 @@ one hour mark, we managed to get it unstuck, and headed back to town, unsurprisi
 Advice to anyone reading this blog, don't
 ever travel somewhere with me that requires renting a car, I'm two for two on getting them stuck in snow/mud.
 Also, don't trust directions given to you by rental car employees, even if the island seems so small that it would
-be impossible to get lost.
+be impossible to get lost...
 
 ### Day 5: Redemption
 
