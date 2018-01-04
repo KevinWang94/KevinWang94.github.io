@@ -104,16 +104,16 @@ with snacks beforehand. Yay for rice cakes and peanut butter, a wonderful throwb
 to traveling across Europe. Sadly we weren't able to buy any jam, because it's mysteriously
 sold in bags?
 
-![](XX)
+![](https://lh3.googleusercontent.com/bdks3LZ4F-XqKmprVJzaZeRCCk4T1eDWQuAaWA_qMRis2-WaB7au9FyKvnyRLCMt2wbAzF7AMX4o-ylYYps1yiSLxfYFJ52aYtG6GP0wHZB66plI7QyQzPuTL9wYIi5f6Z6bdpTEIw)
 
 We also learned that Chileans absolutely love mayo. Or at least, that's the only conclusion
 I can draw from two whole racks devoted to the stuff, in a not particularly large grocery
 store:
 
-![](XX)
+![](https://lh3.googleusercontent.com/bdks3LZ4F-XqKmprVJzaZeRCCk4T1eDWQuAaWA_qMRis2-WaB7au9FyKvnyRLCMt2wbAzF7AMX4o-ylYYps1yiSLxfYFJ52aYtG6GP0wHZB66plI7QyQzPuTL9wYIi5f6Z6bdpTEIw)
 
 And of course, it's also available in bags, even those the size of my head!
 
-![](XX)
+![](https://lh3.googleusercontent.com/fzJ6NULweVcWwOxu8M-q7XGu2WX-qPMvKd8zDt9Rk-zEDHQPWwCZsRB0ENdbRL3FtKccrELVkzzwU9uzXDiHB4iiMqiHoXHyHXg1pesEfL6kArAyVwR0hZZvBv_QpA-9-W4b7rH0ug)
 
 
