@@ -24,7 +24,7 @@ famous as the site of the mysterious [moai](https://en.wikipedia.org/wiki/Moai),
 huge statues carved out of rock by the island's native Polynesian people. 
 
 It first appeared on my travel radar after reading the book
-[Collapse](https://www.goodreads.com/book/show/475.Collapse)
+[*Collapse*](https://www.goodreads.com/book/show/475.Collapse)
 by Jared Diamond (the author of [Guns, Germs, and Steel](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel)).
 As you've probably guessed, Easter Island is one of the historical collapses he discusses.
 In his telling, it's a classic story of environmental exploitation and perhaps human hubris.
