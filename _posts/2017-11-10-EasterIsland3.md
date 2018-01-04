@@ -57,10 +57,7 @@ as a seafood entree. Our waitress seemed a bit perplexed by our order, but her E
 better than our non-existant Spanish so we weren't sure why. It became clear when the empanadas showed
 up. We'd expected a small appetizer-sized portion, but instead it was basically massive enough
 to be a meal by itself, densely filled with (in my case) tuna, tomatoes, and onions. This is definitely
-a steal if you're trying to eat for cheap on the island. I made a valiant effort, but didn't quite finish. 
-
-![](XX)
-
+a steal if you're trying to eat for cheap on the island. I made a valiant effort, but didn't quite finish.
 
 We ended the day at
 [Ahu Tahai](https://en.wikipedia.org/wiki/Ahu_Tahai),
