@@ -46,7 +46,7 @@ We then embarked on a hike of
 one of the three volcanic eruptions that formed Easter island.
 It was more of a real hike than we'd anticipated, but we did manage to make it up to the crater
 
-![](https://www.dropbox.com/s/vinthuns6lbhm1e/BU7A5861.jpg?dl=0)
+![](https://dl.dropboxusercontent.com/s/vinthuns6lbhm1e/BU7A5861.jpg?dl=0)
 
 which was quite beautiful. We then had just enough time for dinner before catching the sunset. 
 As I mentioned, Easter Island can be very expensive, so eating out for cheap is a tricky affair. 
