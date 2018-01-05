@@ -53,7 +53,7 @@ It had a bit of manufactured feeling, with every bar/restaurant consciously
 cool. Each had a hip name and interestingly designed menu and outdoor seating area. My favorite
 was the Montana Bar!
 
-![](https://lh3.googleusercontent.com/wBtaBZPVjP7V86ogyylOFU5In7MYwWqufhftKsVcvPkEXQ7hXJ90h2CopDcEeom3-uKwY0FXy-0avJF0B_nFAZKf87tfz9tgsxp0p8XfIpahovJTzwEFfwgozzOrB7VHDlX-qzP88w)
+![](https://www.dropbox.com/s/n0x38brzufv3ceo/MVIMG_20171028_190617.jpg?dl=0)
 
 ### Day 2: Santiago
 
@@ -63,7 +63,7 @@ on the same flight), and we had a pretty lazy day in Santiago. We started at the
 a local fish market with a lot of little restaurants inside. I was expecting something pretty touristy,
 but actually the fish-market side seemed to be frequented by actual locals. It certainly was very chaotic/messy/smelly:
 
-![](https://lh3.googleusercontent.com/ADBmAFOiBFKppU7uPMOGFNlsyAqWIW2b0QJnAlyQnwW-zD4MnchgEpc2sLSIMtrc2aKGrJQ761VZOY79F-FEweB6C0gft3iDqM44Bi9Auz13Nb_xy72575brDUdIY4r3t2x6BdR6Qg)
+![](https://www.dropbox.com/s/3a51s2h7sgufj8a/IMG_20171029_122653.jpg?dl=0)
 
 The restaurants toward the center are another story, the typical tourist-harassing restaurants.
 At the recommendation of [this blogger](https://www.authenticfoodquest.com/discovering-chilean-seafood-at-the-mercado-central/)
@@ -104,16 +104,16 @@ with snacks beforehand. Yay for rice cakes and peanut butter, a wonderful throwb
 to traveling across Europe. Sadly we weren't able to buy any jam, because it's mysteriously
 sold in bags?
 
-![](https://lh3.googleusercontent.com/bdks3LZ4F-XqKmprVJzaZeRCCk4T1eDWQuAaWA_qMRis2-WaB7au9FyKvnyRLCMt2wbAzF7AMX4o-ylYYps1yiSLxfYFJ52aYtG6GP0wHZB66plI7QyQzPuTL9wYIi5f6Z6bdpTEIw)
+![](https://www.dropbox.com/s/19rugzxh4hqddfv/MVIMG_20171029_163156.jpg?dl=0)
 
 We also learned that Chileans absolutely love mayo. Or at least, that's the only conclusion
 I can draw from two whole racks devoted to the stuff, in a not particularly large grocery
 store:
 
-![](https://lh3.googleusercontent.com/hq7yorJNgqu-AzEhP4xQ55PRNXVPjfjCNiG5RnJvQA5C1CPJoCqk3jmV83zwFVrBAllI-cnAnfsrkcixNUH32-6zbmJRAuFXMIX1xQFUzlu_nF6h0JROh5UK_k0hXP2lUMLSbTwlNQ)
+![](https://www.dropbox.com/s/umez81sr28o7yb5/IMG_20171028_200539.jpg?dl=0)
 
 And of course, it's also available in bags, even those the size of my head!
 
-![](https://lh3.googleusercontent.com/fzJ6NULweVcWwOxu8M-q7XGu2WX-qPMvKd8zDt9Rk-zEDHQPWwCZsRB0ENdbRL3FtKccrELVkzzwU9uzXDiHB4iiMqiHoXHyHXg1pesEfL6kArAyVwR0hZZvBv_QpA-9-W4b7rH0ug)
+![](https://www.dropbox.com/s/c3rytrzdgkqe4e9/MVIMG_20171029_163626.jpg?dl=0)
 
 
