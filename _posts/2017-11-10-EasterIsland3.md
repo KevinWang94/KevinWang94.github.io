@@ -230,17 +230,17 @@ announcing the turn-off from the trail! Lesson learned twice now: if something i
 attraction billed as "hard to find," there's probably a huge sign announcing it...oops.
 The cave itself was pretty incredible. As advertised, it's basically a hole in the ground:
 
-![](https://www.dropbox.com/s/4uvrc0hm7fbs61v/MVIMG_20171101_144440.jpg?dl=0)
+![](https://www.dl.dropboxusercontent.com/s/4uvrc0hm7fbs61v/MVIMG_20171101_144440.jpg?dl=0)
 
 You have to crouch incredibly low through a short passage way, before it opens out into a cavernous
 area, from which there are two tunnels out to the cliffs. How this place was discovered, I have no idea.
 Here's a bad photography attempt of the cavernous area:
 
-![](https://www.dropbox.com/s/5ihh9ojsr7iei44/MVIMG_20171101_144205.jpg?dl=0)
+![](https://www.dl.dropboxusercontent.com/s/5ihh9ojsr7iei44/MVIMG_20171101_144205.jpg?dl=0)
 
 and then close to one of the openings:
 
-![](https://www.dropbox.com/s/2vpttiiioac24sb/MVIMG_20171101_143608.jpg?dl=0)
+![](https://www.dl.dropboxusercontent.com/s/2vpttiiioac24sb/MVIMG_20171101_143608.jpg?dl=0)
 
 I didn't dare get any closer. From here it was back to our car, and then to the gas station
 to fill it up. We didn't really know the size of the tank, so we first just gave them
