@@ -53,7 +53,7 @@ It had a bit of manufactured feeling, with every bar/restaurant consciously
 cool. Each had a hip name and interestingly designed menu and outdoor seating area. My favorite
 was the Montana Bar!
 
-![](https://www.dropbox.com/s/n0x38brzufv3ceo/MVIMG_20171028_190617.jpg?dl=0)
+![](https://dl.dropboxusercontent/s/n0x38brzufv3ceo/MVIMG_20171028_190617.jpg?dl=0)
 
 ### Day 2: Santiago
 
@@ -63,7 +63,7 @@ on the same flight), and we had a pretty lazy day in Santiago. We started at the
 a local fish market with a lot of little restaurants inside. I was expecting something pretty touristy,
 but actually the fish-market side seemed to be frequented by actual locals. It certainly was very chaotic/messy/smelly:
 
-![](https://www.dropbox.com/s/3a51s2h7sgufj8a/IMG_20171029_122653.jpg?dl=0)
+![](https://dl.dropboxusercontent/s/3a51s2h7sgufj8a/IMG_20171029_122653.jpg?dl=0)
 
 The restaurants toward the center are another story, the typical tourist-harassing restaurants.
 At the recommendation of [this blogger](https://www.authenticfoodquest.com/discovering-chilean-seafood-at-the-mercado-central/)
@@ -104,16 +104,16 @@ with snacks beforehand. Yay for rice cakes and peanut butter, a wonderful throwb
 to traveling across Europe. Sadly we weren't able to buy any jam, because it's mysteriously
 sold in bags?
 
-![](https://www.dropbox.com/s/19rugzxh4hqddfv/MVIMG_20171029_163156.jpg?dl=0)
+![](https://dl.dropboxusercontent/s/19rugzxh4hqddfv/MVIMG_20171029_163156.jpg?dl=0)
 
 We also learned that Chileans absolutely love mayo. Or at least, that's the only conclusion
 I can draw from two whole racks devoted to the stuff, in a not particularly large grocery
 store:
 
-![](https://www.dropbox.com/s/umez81sr28o7yb5/IMG_20171028_200539.jpg?dl=0)
+![](https://dl.dropboxusercontent/s/umez81sr28o7yb5/IMG_20171028_200539.jpg?dl=0)
 
 And of course, it's also available in bags, even those the size of my head!
 
-![](https://www.dropbox.com/s/c3rytrzdgkqe4e9/MVIMG_20171029_163626.jpg?dl=0)
+![](https://dl.dropboxusercontent/s/c3rytrzdgkqe4e9/MVIMG_20171029_163626.jpg?dl=0)
 
 
