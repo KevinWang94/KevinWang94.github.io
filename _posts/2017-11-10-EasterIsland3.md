@@ -208,9 +208,73 @@ making clear how difficult this journey would've been for the young men competin
 We stopped for lunch at
 [Ahu Akivi](https://en.wikipedia.org/wiki/Ahu_Akivi),
 notable because it's the only ahu where the moai face out to the sea instead of in towards
-the island. 
+the island. We also celebrated having our last peanut-butter based meal.
+
+The afternoon was spent finally making it to Ana Kakenga. We hiked the circuit mentioned
+[here](https://imaginaisladepascua.com/en/easter-island-sightseeing/easter-island-caves/ana-kakenga/)
+from Ahu Akivi, instead of walking up the coast from Ahu Tahai. In hindsight, this was probably
+a mistake. As while the former had a couple of interest points along the way, it was overall
+a pretty boring trek. I imagine walking up along the water would've been much more pleasant.
+Regardless, we did finally make it, or at least, we approximately made it. The directions
+online were a bit hazy about the location of this cave, and they all said it was a basically
+hard-to-find hole in the ground. So, when my Google Maps blue dot was about in the right place,
+we left the trail to go looking for it, basically running around in the rocky wilderness peaking
+behind rock formations for a cave. If this brings back memories, it's because I did basically
+the same thing in Iceland looking for
+[another cave](http://kevinwang.io/travel/2015/12/27/Iceland2.html).
+It turned out that we weren't quite in the right place, and needed to go a couple hundred yards
+further. We thankfully ran back to the main trail when we saw some other tourists, and they pointed
+us in the right direction. I'm not sure what we would've done otherwise... And of course, just like
+in the Iceland case, the cave was actually not hard to find at all. There was a huge sign
+announcing the turn-off from the trail! Lesson learned twice now: if something is a well-known tourist
+attraction billed as "hard to find," there's probably a huge sign announcing it...oops.
+The cave itself was pretty incredible. As advertised, it's basically a hole in the ground:
+
+![](https://www.dropbox.com/s/4uvrc0hm7fbs61v/MVIMG_20171101_144440.jpg?dl=0)
+
+You have to crouch incredibly low through a short passage way, before it opens out into a cavernous
+area, from which there are two tunnels out to the cliffs. How this place was discovered, I have no idea.
+Here's a bad photography attempt of the cavernous area:
+
+![](https://www.dropbox.com/s/5ihh9ojsr7iei44/MVIMG_20171101_144205.jpg?dl=0)
+
+and then close to one of the openings:
+
+![](https://www.dropbox.com/s/2vpttiiioac24sb/MVIMG_20171101_143608.jpg?dl=0)
+
+I didn't dare get any closer. From here it was back to our car, and then to the gas station
+to fill it up. We didn't really know the size of the tank, so we first just gave them
+a conservative estimate. This turned out to be insufficient, so we forked over a bit more, 
+and which resulted in filling way past where we needed to...oh well.
+We'd been a bit concerned about the state of our car, given the tribulations in the mud,
+but it was accepted without question. Though we had spent some time rinsing it with a hose
+at our hostel, before the owner came angrily running out at us and we had to stop 
+(another employee had told us it was okay).
 
 ### Day 6: Leaving the Island
 
-This day was pretty uneventful, 
-Check-out, back to Chile, the worst experience w/ Uber in my life.
+This day was pretty uneventful, we just flew back to Santiago and checked back into the hostel
+we'd stayed at before. Getting onto the plane, there was a woman with a child in my seat, which
+was a bit weird. And she did indeed have the same seat assignment as me. 
+It seems like whatever technology airlines use should really really make sure
+that this can't happen, but evidently LATAM's isn't great. After some confusion, I got upgraded
+to the bulkhead row, which was pretty nice. But the adventure continues, as 
+the two seats next to me
+were taken by a nurse carrying a huge medical bag and an obviously very sick older man.
+I imagine he was heading back to the mainland for medical care something? Then, right before
+take off I was asked to move again, this time to business class, score! First time getting
+upgraded like that, my plane luck this trip was really amazing.
+
+Less good was our attempt to Uber to our hostel from the airport. First of all, the app
+completely lied about the amount of time needed to get a ride. It probably took 20 minutes for
+us to actually get a car (it timed out our requests several times). Then, despite Uber's very clear
+instructions about the meeting point, our driver couldn't find us at all, and seemed to be randomly
+circling around us, though I couldn't ever find her vehicle. Eventually, she cancelled and we went
+through this whole process again, with greater success. All in, we spent about an hour waiting outside.
+We probably should've given up at some point, but some combination of sunk cost fallacy and distrust
+of local taxis kept us waiting. My attempts after the fact to understand why we had such a terrible
+experience were met by basically the worst customer service I've ever had - repeated canned
+responses that completely ignored the texts of my emails. I'm now on Team Lyft/Via.
+
+The rest of the evening was pretty uneventful, dinner and then packing again for our early morning
+bus ride through the beautiful Andes!
