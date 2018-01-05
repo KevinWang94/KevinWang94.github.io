@@ -141,7 +141,7 @@ another great sign asking us to not touch the statues:
 ![](https://www.dl.dropboxusercontent.com/s/ap91a1vr96zz5lr/MVIMG_20171031_153531.jpg?dl=0)
 
 This is also where
-[Ahu Nau Nau](https://imaginaisladepascua.com/en/easter-island-sightseeing/easter-island-archaeology/ahu-nau-nau/).
+[Ahu Nau Nau](https://imaginaisladepascua.com/en/easter-island-sightseeing/easter-island-archaeology/ahu-nau-nau/)
 is, notable because of moai's red [pukaos](https://en.wikipedia.org/wiki/Pukao). Not satisfied with just creating
 these immense stone rocks, the Rapa Nui people also carved hats/top-knots out of a red rock
 and placed them on top of the statues:
