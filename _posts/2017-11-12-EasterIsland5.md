@@ -27,7 +27,7 @@ Most of its downtown shows the obvious Portuguese colonial legacy, another simil
 The main things that one can reach without a car include several old town sights, 
 including the town gate and lighthouse:
 
-![](https://www.dropbox.com/s/xayobrmhdiekl1f/MVIMG_20171104_134418.jpg?dl=0)
+![](https://www.dl.dropboxusercontent.com/s/xayobrmhdiekl1f/MVIMG_20171104_134418.jpg?dl=0)
 
 There are also a couple of museums, some of which I heard would be free. 
 But the couple that we ducked our heads in had entrance fees in Uruguayan pesos, which we didn't have. 
@@ -80,7 +80,7 @@ as the second best bookstore in the world (yes, I was surprised that this list e
 The building was originally built as a theater in the early 20th century, and converted
 into a ookstore in 2000 while keeping all the beautiful old details intact:
 
-![](https://www.dropbox.com/s/wasoi0cggkvqfyl/BU7A6775.jpg?dl=0)
+![](https://www.dl.dropboxusercontent.com/s/wasoi0cggkvqfyl/BU7A6775.jpg?dl=0)
 
 We also happened to run into a huge Chinese tour group while here, evidently Buenos Aires
 is more popular than Santiago! 
@@ -101,7 +101,7 @@ was originally because the area's inhabitants built their houses from castaway s
 with castaway paint. In the 50s, an artist had the idea to do this with bright colors in order
 to revive the area, and so the this beautiful tourist trap was born:
 
-![](https://www.dropbox.com/s/uf7dcyh13flo1v6/BU7A6790.jpg?dl=0)
+![](https://www.dl.dropboxusercontent.com/s/uf7dcyh13flo1v6/BU7A6790.jpg?dl=0)
 
 As for the ridiculous get up, I'd been very badly sunburnt while on Easter Island, and so
 I was shielding my neck/ears/etc. 
