@@ -27,7 +27,7 @@ Goodreads links. Everyone should join Goodreads.
 
 ### Fiction
 
-#### [*All the Light You Cannot See*](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see)
+#### [*All the Light We Cannot See*](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see)
 
 This book has both a wonderful story and beautiful prose. Aside from the below childhood favorites, it's also the 
 earliest-read fiction book on this list, which is a little sad because I read it in 2016. Making this list 
