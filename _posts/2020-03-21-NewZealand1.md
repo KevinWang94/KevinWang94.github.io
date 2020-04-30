@@ -20,7 +20,7 @@ the actual travel fun begins.
 
 ### Background
 
-New Zealand and Australia have always been relatively high on my travel list. And after visiting [South America]({{ "/tags/easterisland.html" | prepand: site.baseurl}}).
+New Zealand and Australia have always been relatively high on my travel list. And after visiting [South America]({{ "/tags/easterisland.html" | prepand: site.baseurl}}),
 Oceania would be my last normal continent (only short Antarctica). But the long flights required to get
 there (20+ hours, with a required connection) have always been a damper. Air New Zealand actually revealed plans last
 year to begin
@@ -44,7 +44,7 @@ February 21st). We continued monitoring the situation, and as of late February, 
 stable world wide. Obviously, hindsight is 20/20, but at the time I boarded my flight, the situation seemed much more confined
 to Mainland China, with even Hong Kong having the situation relatively under control. And of course my general prior is that
 people's fear of travel is overblown. Probably I should've distinguished fear of e.g. traveling to Iran with fear of traveling
-during burgeoning health crisis, but alas. However, the prudent and prescient Zander decided
+during a burgeoning health crisis, but alas. However, the prudent and prescient Zander decided
 to cancel his trip, leaving just Michal and me. Michal in fact left London two weeks before I left NYC, spending a week in SE Asia
 and then one week in our HKG office.
 
@@ -58,6 +58,6 @@ would've been staying at just a couple weeks later:
 ![](https://www.nzherald.co.nz/resizer/HHb1NMZKjpgIqkTu9VveAlBsajU=/620x1102/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/PMAVDOHU5JGQBIR3O6ZKT5DXRQ.jpg)
 
 We hadn't done much booking of things though, so we just pushed our flight from the North to South Island by a day, and planned
-instead to walk the [Tongariro Alpine Crossing](https://www.earthtrekkers.com/tongariro-alpine-crossing/), supposedly the best
+instead to hike the [Tongariro Alpine Crossing](https://www.earthtrekkers.com/tongariro-alpine-crossing/), supposedly the best
 day hike in the world. This is definitely the least I've ever planned a trip - we booked multiple accomodations in NZ from the
 car on the afternoon of our arrival.
